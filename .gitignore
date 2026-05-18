@@ -1,0 +1,6 @@
+# Ignore local operational data assets
+data/*.db
+data/*.csv
+data/*.png
+__pycache__/
+.DS_Store

@@ -1,0 +1,1201 @@
+review_id,review,rating,date,bank,source,sentiment_label,sentiment_score,identified_theme
+1,Failed transfers. System says network error but my balance was deducted.,1,2026-04-10,Dashen,Google Play (Simulated),negative,-0.4588,Transaction Performance
+2,"Excellent app! Transfer speed is fantastic, love the security updates.",5,2026-02-21,CBE,Google Play (Simulated),positive,0.9348,Transaction Performance
+3,BOA Live is beautiful but it crashes constantly after the latest update.,2,2026-01-08,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+4,"Very poor customer support, my transaction is pending and chat bot is useless.",1,2026-03-02,BOA,Google Play (Simulated),negative,-0.4989,Transaction Performance
+5,BOA Live is beautiful but it crashes constantly after the latest update.,2,2026-02-01,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+6,"Amole app has a great interface, very clean and navigable navigation.",3,2026-04-19,Dashen,Google Play (Simulated),positive,0.796,UI & User Experience
+7,"Excellent app! Transfer speed is fantastic, love the security updates.",5,2026-04-17,CBE,Google Play (Simulated),positive,0.9348,Transaction Performance
+8,"Great user interface, clean design, but login error pops up frequently.",4,2026-04-19,CBE,Google Play (Simulated),neutral,-0.0387,Account Access & Security
+9,"Excellent app! Transfer speed is fantastic, love the security updates.",4,2026-01-06,CBE,Google Play (Simulated),positive,0.9348,Transaction Performance
+10,I did not receive the OTP token. Stuck on login screen for hours.,1,2026-04-20,BOA,Google Play (Simulated),negative,-0.25,Account Access & Security
+11,I did not receive the OTP token. Stuck on login screen for hours.,1,2026-04-03,BOA,Google Play (Simulated),negative,-0.25,Account Access & Security
+12,I did not receive the OTP token. Stuck on login screen for hours.,1,2026-01-07,BOA,Google Play (Simulated),negative,-0.25,Account Access & Security
+13,"Awesome banking experience, fast navigation and secure transfers.",5,2026-01-04,Dashen,Google Play (Simulated),positive,0.7579,Transaction Performance
+14,"Awesome banking experience, fast navigation and secure transfers.",5,2026-01-23,Dashen,Google Play (Simulated),positive,0.7579,Transaction Performance
+15,Very slow transfer loading times today. App kept crashing during payments.,2,2026-01-23,CBE,Google Play (Simulated),neutral,0.0,Transaction Performance
+16,BOA Live is beautiful but it crashes constantly after the latest update.,3,2026-03-08,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+17,Failed transfers. System says network error but my balance was deducted.,1,2026-02-02,Dashen,Google Play (Simulated),negative,-0.4588,Transaction Performance
+18,Very slow transfer loading times today. App kept crashing during payments.,1,2026-02-09,CBE,Google Play (Simulated),neutral,0.0,Transaction Performance
+19,"Awesome banking experience, fast navigation and secure transfers.",5,2026-01-26,Dashen,Google Play (Simulated),positive,0.7579,Transaction Performance
+20,"Amole app has a great interface, very clean and navigable navigation.",5,2026-05-03,Dashen,Google Play (Simulated),positive,0.796,UI & User Experience
+21,"Awesome banking experience, fast navigation and secure transfers.",5,2026-04-02,Dashen,Google Play (Simulated),positive,0.7579,Transaction Performance
+22,Very slow transfer loading times today. App kept crashing during payments.,1,2026-01-24,CBE,Google Play (Simulated),neutral,0.0,Transaction Performance
+23,I did not receive the OTP token. Stuck on login screen for hours.,1,2026-01-21,BOA,Google Play (Simulated),negative,-0.25,Account Access & Security
+24,Please add biometric authentication like fingerprint sign in.,3,2026-03-06,Dashen,Google Play (Simulated),positive,0.5859,Account Access & Security
+25,BOA Live is beautiful but it crashes constantly after the latest update.,2,2026-01-01,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+26,"Excellent app! Transfer speed is fantastic, love the security updates.",5,2026-04-08,CBE,Google Play (Simulated),positive,0.9348,Transaction Performance
+27,Failed transfers. System says network error but my balance was deducted.,1,2026-04-10,Dashen,Google Play (Simulated),negative,-0.4588,Transaction Performance
+28,BOA Live is beautiful but it crashes constantly after the latest update.,2,2026-03-12,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+29,I did not receive the OTP token. Stuck on login screen for hours.,1,2026-03-18,BOA,Google Play (Simulated),negative,-0.25,Account Access & Security
+30,"Excellent app! Transfer speed is fantastic, love the security updates.",5,2026-01-24,CBE,Google Play (Simulated),positive,0.9348,Transaction Performance
+31,Failed transfers. System says network error but my balance was deducted.,2,2026-03-19,Dashen,Google Play (Simulated),negative,-0.4588,Transaction Performance
+32,"Very poor customer support, my transaction is pending and chat bot is useless.",2,2026-04-20,BOA,Google Play (Simulated),negative,-0.4989,Transaction Performance
+33,"Great user interface, clean design, but login error pops up frequently.",2,2026-01-22,CBE,Google Play (Simulated),neutral,-0.0387,Account Access & Security
+34,"Amole app has a great interface, very clean and navigable navigation.",5,2026-03-10,Dashen,Google Play (Simulated),positive,0.796,UI & User Experience
+35,Failed transfers. System says network error but my balance was deducted.,2,2026-03-21,Dashen,Google Play (Simulated),negative,-0.4588,Transaction Performance
+36,I did not receive the OTP token. Stuck on login screen for hours.,1,2026-01-11,BOA,Google Play (Simulated),negative,-0.25,Account Access & Security
+37,"Awesome banking experience, fast navigation and secure transfers.",5,2026-05-02,Dashen,Google Play (Simulated),positive,0.7579,Transaction Performance
+38,BOA Live is beautiful but it crashes constantly after the latest update.,2,2026-05-01,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+39,BOA Live is beautiful but it crashes constantly after the latest update.,3,2026-05-01,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+40,Very slow transfer loading times today. App kept crashing during payments.,2,2026-02-15,CBE,Google Play (Simulated),neutral,0.0,Transaction Performance
+41,Please add biometric authentication like fingerprint sign in.,4,2026-05-04,Dashen,Google Play (Simulated),positive,0.5859,Account Access & Security
+42,"Amole app has a great interface, very clean and navigable navigation.",4,2026-04-13,Dashen,Google Play (Simulated),positive,0.796,UI & User Experience
+43,"Great user interface, clean design, but login error pops up frequently.",2,2026-03-29,CBE,Google Play (Simulated),neutral,-0.0387,Account Access & Security
+44,"Excellent app! Transfer speed is fantastic, love the security updates.",4,2026-02-05,CBE,Google Play (Simulated),positive,0.9348,Transaction Performance
+45,Please add biometric authentication like fingerprint sign in.,3,2026-03-25,Dashen,Google Play (Simulated),positive,0.5859,Account Access & Security
+46,Very slow transfer loading times today. App kept crashing during payments.,1,2026-04-05,CBE,Google Play (Simulated),neutral,0.0,Transaction Performance
+47,"Awesome banking experience, fast navigation and secure transfers.",4,2026-04-30,Dashen,Google Play (Simulated),positive,0.7579,Transaction Performance
+48,Failed transfers. System says network error but my balance was deducted.,2,2026-03-01,Dashen,Google Play (Simulated),negative,-0.4588,Transaction Performance
+49,Very slow transfer loading times today. App kept crashing during payments.,1,2026-04-19,CBE,Google Play (Simulated),neutral,0.0,Transaction Performance
+50,Smooth transfers and quick notifications. Highly recommended.,4,2026-05-09,BOA,Google Play (Simulated),positive,0.2716,Transaction Performance
+51,"Amole app has a great interface, very clean and navigable navigation.",5,2026-01-03,Dashen,Google Play (Simulated),positive,0.796,UI & User Experience
+52,Where is the fingerprint login? Typing my long password every time is annoying.,1,2026-02-18,CBE,Google Play (Simulated),negative,-0.4019,Account Access & Security
+53,"Excellent app! Transfer speed is fantastic, love the security updates.",5,2026-02-10,CBE,Google Play (Simulated),positive,0.9348,Transaction Performance
+54,Smooth transfers and quick notifications. Highly recommended.,4,2026-01-27,BOA,Google Play (Simulated),positive,0.2716,Transaction Performance
+55,BOA Live is beautiful but it crashes constantly after the latest update.,2,2026-03-09,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+56,Smooth transfers and quick notifications. Highly recommended.,4,2026-04-20,BOA,Google Play (Simulated),positive,0.2716,Transaction Performance
+57,"Amole app has a great interface, very clean and navigable navigation.",4,2026-04-25,Dashen,Google Play (Simulated),positive,0.796,UI & User Experience
+58,"Great user interface, clean design, but login error pops up frequently.",3,2026-01-19,CBE,Google Play (Simulated),neutral,-0.0387,Account Access & Security
+59,"Excellent app! Transfer speed is fantastic, love the security updates.",4,2026-03-27,CBE,Google Play (Simulated),positive,0.9348,Transaction Performance
+60,"Amole app has a great interface, very clean and navigable navigation.",5,2026-01-02,Dashen,Google Play (Simulated),positive,0.796,UI & User Experience
+61,"Excellent app! Transfer speed is fantastic, love the security updates.",5,2026-04-17,CBE,Google Play (Simulated),positive,0.9348,Transaction Performance
+62,"Great user interface, clean design, but login error pops up frequently.",2,2026-02-14,CBE,Google Play (Simulated),neutral,-0.0387,Account Access & Security
+63,"Amole app has a great interface, very clean and navigable navigation.",5,2026-04-25,Dashen,Google Play (Simulated),positive,0.796,UI & User Experience
+64,BOA Live is beautiful but it crashes constantly after the latest update.,2,2026-01-29,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+65,Please add biometric authentication like fingerprint sign in.,3,2026-01-07,Dashen,Google Play (Simulated),positive,0.5859,Account Access & Security
+66,"Great user interface, clean design, but login error pops up frequently.",2,2026-02-19,CBE,Google Play (Simulated),neutral,-0.0387,Account Access & Security
+67,Failed transfers. System says network error but my balance was deducted.,1,2026-03-26,Dashen,Google Play (Simulated),negative,-0.4588,Transaction Performance
+68,"Awesome banking experience, fast navigation and secure transfers.",5,2026-02-04,Dashen,Google Play (Simulated),positive,0.7579,Transaction Performance
+69,"Awesome banking experience, fast navigation and secure transfers.",5,2026-01-16,Dashen,Google Play (Simulated),positive,0.7579,Transaction Performance
+70,Where is the fingerprint login? Typing my long password every time is annoying.,2,2026-02-17,CBE,Google Play (Simulated),negative,-0.4019,Account Access & Security
+71,"Awesome banking experience, fast navigation and secure transfers.",5,2026-03-02,Dashen,Google Play (Simulated),positive,0.7579,Transaction Performance
+72,Very slow transfer loading times today. App kept crashing during payments.,2,2026-02-24,CBE,Google Play (Simulated),neutral,0.0,Transaction Performance
+73,Where is the fingerprint login? Typing my long password every time is annoying.,2,2026-03-05,CBE,Google Play (Simulated),negative,-0.4019,Account Access & Security
+74,"Amole app has a great interface, very clean and navigable navigation.",4,2026-02-11,Dashen,Google Play (Simulated),positive,0.796,UI & User Experience
+75,Very slow transfer loading times today. App kept crashing during payments.,2,2026-01-24,CBE,Google Play (Simulated),neutral,0.0,Transaction Performance
+76,Failed transfers. System says network error but my balance was deducted.,1,2026-05-11,Dashen,Google Play (Simulated),negative,-0.4588,Transaction Performance
+77,"Excellent app! Transfer speed is fantastic, love the security updates.",5,2026-01-15,CBE,Google Play (Simulated),positive,0.9348,Transaction Performance
+78,I did not receive the OTP token. Stuck on login screen for hours.,2,2026-03-02,BOA,Google Play (Simulated),negative,-0.25,Account Access & Security
+79,"Amole app has a great interface, very clean and navigable navigation.",5,2026-01-08,Dashen,Google Play (Simulated),positive,0.796,UI & User Experience
+80,"Excellent app! Transfer speed is fantastic, love the security updates.",4,2026-05-06,CBE,Google Play (Simulated),positive,0.9348,Transaction Performance
+81,BOA Live is beautiful but it crashes constantly after the latest update.,1,2026-04-18,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+82,"Great user interface, clean design, but login error pops up frequently.",4,2026-01-13,CBE,Google Play (Simulated),neutral,-0.0387,Account Access & Security
+83,"Amole app has a great interface, very clean and navigable navigation.",4,2026-03-15,Dashen,Google Play (Simulated),positive,0.796,UI & User Experience
+84,"Excellent app! Transfer speed is fantastic, love the security updates.",5,2026-03-27,CBE,Google Play (Simulated),positive,0.9348,Transaction Performance
+85,"Excellent app! Transfer speed is fantastic, love the security updates.",5,2026-03-25,CBE,Google Play (Simulated),positive,0.9348,Transaction Performance
+86,BOA Live is beautiful but it crashes constantly after the latest update.,1,2026-03-26,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+87,I did not receive the OTP token. Stuck on login screen for hours.,1,2026-03-24,BOA,Google Play (Simulated),negative,-0.25,Account Access & Security
+88,Smooth transfers and quick notifications. Highly recommended.,5,2026-03-10,BOA,Google Play (Simulated),positive,0.2716,Transaction Performance
+89,"Very poor customer support, my transaction is pending and chat bot is useless.",1,2026-04-11,BOA,Google Play (Simulated),negative,-0.4989,Transaction Performance
+90,Please add biometric authentication like fingerprint sign in.,3,2026-05-02,Dashen,Google Play (Simulated),positive,0.5859,Account Access & Security
+91,"Amole app has a great interface, very clean and navigable navigation.",4,2026-01-06,Dashen,Google Play (Simulated),positive,0.796,UI & User Experience
+92,"Amole app has a great interface, very clean and navigable navigation.",5,2026-01-15,Dashen,Google Play (Simulated),positive,0.796,UI & User Experience
+93,"Great user interface, clean design, but login error pops up frequently.",3,2026-03-28,CBE,Google Play (Simulated),neutral,-0.0387,Account Access & Security
+94,"Very poor customer support, my transaction is pending and chat bot is useless.",1,2026-01-15,BOA,Google Play (Simulated),negative,-0.4989,Transaction Performance
+95,"Excellent app! Transfer speed is fantastic, love the security updates.",5,2026-01-31,CBE,Google Play (Simulated),positive,0.9348,Transaction Performance
+96,I did not receive the OTP token. Stuck on login screen for hours.,1,2026-02-27,BOA,Google Play (Simulated),negative,-0.25,Account Access & Security
+97,"Excellent app! Transfer speed is fantastic, love the security updates.",5,2026-03-26,CBE,Google Play (Simulated),positive,0.9348,Transaction Performance
+98,Very slow transfer loading times today. App kept crashing during payments.,2,2026-01-31,CBE,Google Play (Simulated),neutral,0.0,Transaction Performance
+99,"Awesome banking experience, fast navigation and secure transfers.",5,2026-01-10,Dashen,Google Play (Simulated),positive,0.7579,Transaction Performance
+100,"Amole app has a great interface, very clean and navigable navigation.",3,2026-03-24,Dashen,Google Play (Simulated),positive,0.796,UI & User Experience
+101,"Very poor customer support, my transaction is pending and chat bot is useless.",2,2026-01-27,BOA,Google Play (Simulated),negative,-0.4989,Transaction Performance
+102,"Great user interface, clean design, but login error pops up frequently.",3,2026-02-12,CBE,Google Play (Simulated),neutral,-0.0387,Account Access & Security
+103,"Awesome banking experience, fast navigation and secure transfers.",5,2026-04-16,Dashen,Google Play (Simulated),positive,0.7579,Transaction Performance
+104,Failed transfers. System says network error but my balance was deducted.,1,2026-04-17,Dashen,Google Play (Simulated),negative,-0.4588,Transaction Performance
+105,"Great user interface, clean design, but login error pops up frequently.",3,2026-05-10,CBE,Google Play (Simulated),neutral,-0.0387,Account Access & Security
+106,BOA Live is beautiful but it crashes constantly after the latest update.,3,2026-02-25,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+107,Where is the fingerprint login? Typing my long password every time is annoying.,3,2026-04-20,CBE,Google Play (Simulated),negative,-0.4019,Account Access & Security
+108,Failed transfers. System says network error but my balance was deducted.,2,2026-01-16,Dashen,Google Play (Simulated),negative,-0.4588,Transaction Performance
+109,BOA Live is beautiful but it crashes constantly after the latest update.,2,2026-03-25,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+110,I did not receive the OTP token. Stuck on login screen for hours.,1,2026-02-04,BOA,Google Play (Simulated),negative,-0.25,Account Access & Security
+111,"Great user interface, clean design, but login error pops up frequently.",4,2026-03-14,CBE,Google Play (Simulated),neutral,-0.0387,Account Access & Security
+112,"Excellent app! Transfer speed is fantastic, love the security updates.",5,2026-05-01,CBE,Google Play (Simulated),positive,0.9348,Transaction Performance
+113,Where is the fingerprint login? Typing my long password every time is annoying.,3,2026-03-24,CBE,Google Play (Simulated),negative,-0.4019,Account Access & Security
+114,Failed transfers. System says network error but my balance was deducted.,2,2026-04-12,Dashen,Google Play (Simulated),negative,-0.4588,Transaction Performance
+115,Failed transfers. System says network error but my balance was deducted.,1,2026-02-19,Dashen,Google Play (Simulated),negative,-0.4588,Transaction Performance
+116,Where is the fingerprint login? Typing my long password every time is annoying.,3,2026-03-27,CBE,Google Play (Simulated),negative,-0.4019,Account Access & Security
+117,Where is the fingerprint login? Typing my long password every time is annoying.,1,2026-03-10,CBE,Google Play (Simulated),negative,-0.4019,Account Access & Security
+118,Very slow transfer loading times today. App kept crashing during payments.,1,2026-04-10,CBE,Google Play (Simulated),neutral,0.0,Transaction Performance
+119,"Great user interface, clean design, but login error pops up frequently.",2,2026-03-29,CBE,Google Play (Simulated),neutral,-0.0387,Account Access & Security
+120,"Very poor customer support, my transaction is pending and chat bot is useless.",1,2026-03-03,BOA,Google Play (Simulated),negative,-0.4989,Transaction Performance
+121,I did not receive the OTP token. Stuck on login screen for hours.,2,2026-03-23,BOA,Google Play (Simulated),negative,-0.25,Account Access & Security
+122,I did not receive the OTP token. Stuck on login screen for hours.,1,2026-02-21,BOA,Google Play (Simulated),negative,-0.25,Account Access & Security
+123,I did not receive the OTP token. Stuck on login screen for hours.,1,2026-05-06,BOA,Google Play (Simulated),negative,-0.25,Account Access & Security
+124,Where is the fingerprint login? Typing my long password every time is annoying.,3,2026-04-08,CBE,Google Play (Simulated),negative,-0.4019,Account Access & Security
+125,BOA Live is beautiful but it crashes constantly after the latest update.,1,2026-03-26,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+126,Please add biometric authentication like fingerprint sign in.,3,2026-01-27,Dashen,Google Play (Simulated),positive,0.5859,Account Access & Security
+127,Smooth transfers and quick notifications. Highly recommended.,5,2026-05-05,BOA,Google Play (Simulated),positive,0.2716,Transaction Performance
+128,BOA Live is beautiful but it crashes constantly after the latest update.,3,2026-02-12,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+129,"Very poor customer support, my transaction is pending and chat bot is useless.",2,2026-01-06,BOA,Google Play (Simulated),negative,-0.4989,Transaction Performance
+130,"Amole app has a great interface, very clean and navigable navigation.",3,2026-01-27,Dashen,Google Play (Simulated),positive,0.796,UI & User Experience
+131,Smooth transfers and quick notifications. Highly recommended.,5,2026-04-18,BOA,Google Play (Simulated),positive,0.2716,Transaction Performance
+132,Where is the fingerprint login? Typing my long password every time is annoying.,1,2026-03-20,CBE,Google Play (Simulated),negative,-0.4019,Account Access & Security
+133,Please add biometric authentication like fingerprint sign in.,2,2026-03-05,Dashen,Google Play (Simulated),positive,0.5859,Account Access & Security
+134,Smooth transfers and quick notifications. Highly recommended.,5,2026-05-01,BOA,Google Play (Simulated),positive,0.2716,Transaction Performance
+135,"Great user interface, clean design, but login error pops up frequently.",4,2026-04-26,CBE,Google Play (Simulated),neutral,-0.0387,Account Access & Security
+136,Very slow transfer loading times today. App kept crashing during payments.,1,2026-04-27,CBE,Google Play (Simulated),neutral,0.0,Transaction Performance
+137,"Amole app has a great interface, very clean and navigable navigation.",5,2026-03-06,Dashen,Google Play (Simulated),positive,0.796,UI & User Experience
+138,"Amole app has a great interface, very clean and navigable navigation.",3,2026-03-29,Dashen,Google Play (Simulated),positive,0.796,UI & User Experience
+139,BOA Live is beautiful but it crashes constantly after the latest update.,2,2026-04-01,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+140,"Awesome banking experience, fast navigation and secure transfers.",5,2026-02-01,Dashen,Google Play (Simulated),positive,0.7579,Transaction Performance
+141,BOA Live is beautiful but it crashes constantly after the latest update.,3,2026-04-12,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+142,Where is the fingerprint login? Typing my long password every time is annoying.,3,2026-02-04,CBE,Google Play (Simulated),negative,-0.4019,Account Access & Security
+143,Smooth transfers and quick notifications. Highly recommended.,4,2026-03-31,BOA,Google Play (Simulated),positive,0.2716,Transaction Performance
+144,Failed transfers. System says network error but my balance was deducted.,2,2026-02-13,Dashen,Google Play (Simulated),negative,-0.4588,Transaction Performance
+145,Smooth transfers and quick notifications. Highly recommended.,5,2026-02-26,BOA,Google Play (Simulated),positive,0.2716,Transaction Performance
+146,Please add biometric authentication like fingerprint sign in.,2,2026-03-07,Dashen,Google Play (Simulated),positive,0.5859,Account Access & Security
+147,Very slow transfer loading times today. App kept crashing during payments.,1,2026-04-21,CBE,Google Play (Simulated),neutral,0.0,Transaction Performance
+148,Very slow transfer loading times today. App kept crashing during payments.,2,2026-02-07,CBE,Google Play (Simulated),neutral,0.0,Transaction Performance
+149,Where is the fingerprint login? Typing my long password every time is annoying.,3,2026-05-04,CBE,Google Play (Simulated),negative,-0.4019,Account Access & Security
+150,"Excellent app! Transfer speed is fantastic, love the security updates.",5,2026-03-12,CBE,Google Play (Simulated),positive,0.9348,Transaction Performance
+151,"Great user interface, clean design, but login error pops up frequently.",3,2026-03-29,CBE,Google Play (Simulated),neutral,-0.0387,Account Access & Security
+152,I did not receive the OTP token. Stuck on login screen for hours.,1,2026-04-28,BOA,Google Play (Simulated),negative,-0.25,Account Access & Security
+153,Very slow transfer loading times today. App kept crashing during payments.,2,2026-01-24,CBE,Google Play (Simulated),neutral,0.0,Transaction Performance
+154,"Great user interface, clean design, but login error pops up frequently.",2,2026-01-08,CBE,Google Play (Simulated),neutral,-0.0387,Account Access & Security
+155,Smooth transfers and quick notifications. Highly recommended.,5,2026-03-23,BOA,Google Play (Simulated),positive,0.2716,Transaction Performance
+156,Please add biometric authentication like fingerprint sign in.,3,2026-02-11,Dashen,Google Play (Simulated),positive,0.5859,Account Access & Security
+157,BOA Live is beautiful but it crashes constantly after the latest update.,3,2026-04-28,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+158,BOA Live is beautiful but it crashes constantly after the latest update.,3,2026-05-07,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+159,Smooth transfers and quick notifications. Highly recommended.,5,2026-05-10,BOA,Google Play (Simulated),positive,0.2716,Transaction Performance
+160,"Amole app has a great interface, very clean and navigable navigation.",3,2026-05-08,Dashen,Google Play (Simulated),positive,0.796,UI & User Experience
+161,"Awesome banking experience, fast navigation and secure transfers.",5,2026-04-01,Dashen,Google Play (Simulated),positive,0.7579,Transaction Performance
+162,Smooth transfers and quick notifications. Highly recommended.,4,2026-04-08,BOA,Google Play (Simulated),positive,0.2716,Transaction Performance
+163,Please add biometric authentication like fingerprint sign in.,3,2026-01-03,Dashen,Google Play (Simulated),positive,0.5859,Account Access & Security
+164,Where is the fingerprint login? Typing my long password every time is annoying.,1,2026-04-19,CBE,Google Play (Simulated),negative,-0.4019,Account Access & Security
+165,Failed transfers. System says network error but my balance was deducted.,1,2026-03-05,Dashen,Google Play (Simulated),negative,-0.4588,Transaction Performance
+166,Where is the fingerprint login? Typing my long password every time is annoying.,2,2026-02-12,CBE,Google Play (Simulated),negative,-0.4019,Account Access & Security
+167,Very slow transfer loading times today. App kept crashing during payments.,1,2026-02-01,CBE,Google Play (Simulated),neutral,0.0,Transaction Performance
+168,BOA Live is beautiful but it crashes constantly after the latest update.,2,2026-01-15,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+169,Failed transfers. System says network error but my balance was deducted.,1,2026-03-12,Dashen,Google Play (Simulated),negative,-0.4588,Transaction Performance
+170,"Very poor customer support, my transaction is pending and chat bot is useless.",1,2026-01-18,BOA,Google Play (Simulated),negative,-0.4989,Transaction Performance
+171,I did not receive the OTP token. Stuck on login screen for hours.,1,2026-03-30,BOA,Google Play (Simulated),negative,-0.25,Account Access & Security
+172,"Awesome banking experience, fast navigation and secure transfers.",5,2026-05-05,Dashen,Google Play (Simulated),positive,0.7579,Transaction Performance
+173,Very slow transfer loading times today. App kept crashing during payments.,2,2026-02-17,CBE,Google Play (Simulated),neutral,0.0,Transaction Performance
+174,Failed transfers. System says network error but my balance was deducted.,2,2026-01-12,Dashen,Google Play (Simulated),negative,-0.4588,Transaction Performance
+175,Please add biometric authentication like fingerprint sign in.,3,2026-02-25,Dashen,Google Play (Simulated),positive,0.5859,Account Access & Security
+176,Very slow transfer loading times today. App kept crashing during payments.,1,2026-05-10,CBE,Google Play (Simulated),neutral,0.0,Transaction Performance
+177,Smooth transfers and quick notifications. Highly recommended.,4,2026-04-30,BOA,Google Play (Simulated),positive,0.2716,Transaction Performance
+178,"Awesome banking experience, fast navigation and secure transfers.",4,2026-03-20,Dashen,Google Play (Simulated),positive,0.7579,Transaction Performance
+179,Smooth transfers and quick notifications. Highly recommended.,4,2026-04-28,BOA,Google Play (Simulated),positive,0.2716,Transaction Performance
+180,I did not receive the OTP token. Stuck on login screen for hours.,2,2026-01-28,BOA,Google Play (Simulated),negative,-0.25,Account Access & Security
+181,I did not receive the OTP token. Stuck on login screen for hours.,1,2026-04-25,BOA,Google Play (Simulated),negative,-0.25,Account Access & Security
+182,"Awesome banking experience, fast navigation and secure transfers.",5,2026-01-12,Dashen,Google Play (Simulated),positive,0.7579,Transaction Performance
+183,I did not receive the OTP token. Stuck on login screen for hours.,1,2026-02-14,BOA,Google Play (Simulated),negative,-0.25,Account Access & Security
+184,Please add biometric authentication like fingerprint sign in.,3,2026-01-07,Dashen,Google Play (Simulated),positive,0.5859,Account Access & Security
+185,Very slow transfer loading times today. App kept crashing during payments.,1,2026-04-06,CBE,Google Play (Simulated),neutral,0.0,Transaction Performance
+186,"Very poor customer support, my transaction is pending and chat bot is useless.",1,2026-01-01,BOA,Google Play (Simulated),negative,-0.4989,Transaction Performance
+187,I did not receive the OTP token. Stuck on login screen for hours.,2,2026-01-01,BOA,Google Play (Simulated),negative,-0.25,Account Access & Security
+188,Where is the fingerprint login? Typing my long password every time is annoying.,2,2026-04-01,CBE,Google Play (Simulated),negative,-0.4019,Account Access & Security
+189,"Awesome banking experience, fast navigation and secure transfers.",4,2026-02-17,Dashen,Google Play (Simulated),positive,0.7579,Transaction Performance
+190,"Very poor customer support, my transaction is pending and chat bot is useless.",1,2026-05-02,BOA,Google Play (Simulated),negative,-0.4989,Transaction Performance
+191,Smooth transfers and quick notifications. Highly recommended.,5,2026-02-06,BOA,Google Play (Simulated),positive,0.2716,Transaction Performance
+192,"Awesome banking experience, fast navigation and secure transfers.",5,2026-03-11,Dashen,Google Play (Simulated),positive,0.7579,Transaction Performance
+193,BOA Live is beautiful but it crashes constantly after the latest update.,2,2026-02-08,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+194,"Amole app has a great interface, very clean and navigable navigation.",5,2026-03-11,Dashen,Google Play (Simulated),positive,0.796,UI & User Experience
+195,"Great user interface, clean design, but login error pops up frequently.",4,2026-03-20,CBE,Google Play (Simulated),neutral,-0.0387,Account Access & Security
+196,Smooth transfers and quick notifications. Highly recommended.,5,2026-01-21,BOA,Google Play (Simulated),positive,0.2716,Transaction Performance
+197,Where is the fingerprint login? Typing my long password every time is annoying.,2,2026-03-06,CBE,Google Play (Simulated),negative,-0.4019,Account Access & Security
+198,BOA Live is beautiful but it crashes constantly after the latest update.,2,2026-04-10,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+199,BOA Live is beautiful but it crashes constantly after the latest update.,1,2026-04-21,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+200,Please add biometric authentication like fingerprint sign in.,4,2026-03-27,Dashen,Google Play (Simulated),positive,0.5859,Account Access & Security
+201,"Amole app has a great interface, very clean and navigable navigation.",3,2026-03-07,Dashen,Google Play (Simulated),positive,0.796,UI & User Experience
+202,Smooth transfers and quick notifications. Highly recommended.,4,2026-01-07,BOA,Google Play (Simulated),positive,0.2716,Transaction Performance
+203,BOA Live is beautiful but it crashes constantly after the latest update.,2,2026-01-18,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+204,"Awesome banking experience, fast navigation and secure transfers.",4,2026-04-06,Dashen,Google Play (Simulated),positive,0.7579,Transaction Performance
+205,"Awesome banking experience, fast navigation and secure transfers.",5,2026-01-20,Dashen,Google Play (Simulated),positive,0.7579,Transaction Performance
+206,Failed transfers. System says network error but my balance was deducted.,2,2026-01-26,Dashen,Google Play (Simulated),negative,-0.4588,Transaction Performance
+207,Very slow transfer loading times today. App kept crashing during payments.,1,2026-04-23,CBE,Google Play (Simulated),neutral,0.0,Transaction Performance
+208,"Awesome banking experience, fast navigation and secure transfers.",4,2026-04-24,Dashen,Google Play (Simulated),positive,0.7579,Transaction Performance
+209,BOA Live is beautiful but it crashes constantly after the latest update.,1,2026-04-14,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+210,BOA Live is beautiful but it crashes constantly after the latest update.,3,2026-03-26,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+211,Smooth transfers and quick notifications. Highly recommended.,5,2026-03-13,BOA,Google Play (Simulated),positive,0.2716,Transaction Performance
+212,"Amole app has a great interface, very clean and navigable navigation.",3,2026-03-12,Dashen,Google Play (Simulated),positive,0.796,UI & User Experience
+213,BOA Live is beautiful but it crashes constantly after the latest update.,1,2026-04-05,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+214,"Great user interface, clean design, but login error pops up frequently.",4,2026-01-03,CBE,Google Play (Simulated),neutral,-0.0387,Account Access & Security
+215,Failed transfers. System says network error but my balance was deducted.,1,2026-01-22,Dashen,Google Play (Simulated),negative,-0.4588,Transaction Performance
+216,"Amole app has a great interface, very clean and navigable navigation.",5,2026-04-05,Dashen,Google Play (Simulated),positive,0.796,UI & User Experience
+217,"Very poor customer support, my transaction is pending and chat bot is useless.",2,2026-03-10,BOA,Google Play (Simulated),negative,-0.4989,Transaction Performance
+218,Where is the fingerprint login? Typing my long password every time is annoying.,2,2026-04-17,CBE,Google Play (Simulated),negative,-0.4019,Account Access & Security
+219,Where is the fingerprint login? Typing my long password every time is annoying.,1,2026-04-28,CBE,Google Play (Simulated),negative,-0.4019,Account Access & Security
+220,"Great user interface, clean design, but login error pops up frequently.",3,2026-01-02,CBE,Google Play (Simulated),neutral,-0.0387,Account Access & Security
+221,Smooth transfers and quick notifications. Highly recommended.,4,2026-03-29,BOA,Google Play (Simulated),positive,0.2716,Transaction Performance
+222,BOA Live is beautiful but it crashes constantly after the latest update.,3,2026-01-16,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+223,I did not receive the OTP token. Stuck on login screen for hours.,1,2026-05-10,BOA,Google Play (Simulated),negative,-0.25,Account Access & Security
+224,"Awesome banking experience, fast navigation and secure transfers.",5,2026-05-07,Dashen,Google Play (Simulated),positive,0.7579,Transaction Performance
+225,"Very poor customer support, my transaction is pending and chat bot is useless.",2,2026-04-11,BOA,Google Play (Simulated),negative,-0.4989,Transaction Performance
+226,"Amole app has a great interface, very clean and navigable navigation.",5,2026-03-07,Dashen,Google Play (Simulated),positive,0.796,UI & User Experience
+227,"Awesome banking experience, fast navigation and secure transfers.",4,2026-02-13,Dashen,Google Play (Simulated),positive,0.7579,Transaction Performance
+228,BOA Live is beautiful but it crashes constantly after the latest update.,3,2026-02-12,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+229,"Very poor customer support, my transaction is pending and chat bot is useless.",1,2026-01-15,BOA,Google Play (Simulated),negative,-0.4989,Transaction Performance
+230,BOA Live is beautiful but it crashes constantly after the latest update.,1,2026-04-06,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+231,Failed transfers. System says network error but my balance was deducted.,1,2026-03-17,Dashen,Google Play (Simulated),negative,-0.4588,Transaction Performance
+232,"Great user interface, clean design, but login error pops up frequently.",3,2026-02-17,CBE,Google Play (Simulated),neutral,-0.0387,Account Access & Security
+233,I did not receive the OTP token. Stuck on login screen for hours.,1,2026-04-27,BOA,Google Play (Simulated),negative,-0.25,Account Access & Security
+234,"Excellent app! Transfer speed is fantastic, love the security updates.",4,2026-02-25,CBE,Google Play (Simulated),positive,0.9348,Transaction Performance
+235,Very slow transfer loading times today. App kept crashing during payments.,1,2026-01-24,CBE,Google Play (Simulated),neutral,0.0,Transaction Performance
+236,"Awesome banking experience, fast navigation and secure transfers.",5,2026-05-02,Dashen,Google Play (Simulated),positive,0.7579,Transaction Performance
+237,Where is the fingerprint login? Typing my long password every time is annoying.,2,2026-04-07,CBE,Google Play (Simulated),negative,-0.4019,Account Access & Security
+238,Please add biometric authentication like fingerprint sign in.,3,2026-01-20,Dashen,Google Play (Simulated),positive,0.5859,Account Access & Security
+239,"Great user interface, clean design, but login error pops up frequently.",2,2026-02-28,CBE,Google Play (Simulated),neutral,-0.0387,Account Access & Security
+240,Failed transfers. System says network error but my balance was deducted.,2,2026-05-08,Dashen,Google Play (Simulated),negative,-0.4588,Transaction Performance
+241,Please add biometric authentication like fingerprint sign in.,3,2026-02-02,Dashen,Google Play (Simulated),positive,0.5859,Account Access & Security
+242,Where is the fingerprint login? Typing my long password every time is annoying.,3,2026-02-14,CBE,Google Play (Simulated),negative,-0.4019,Account Access & Security
+243,Please add biometric authentication like fingerprint sign in.,3,2026-01-01,Dashen,Google Play (Simulated),positive,0.5859,Account Access & Security
+244,Very slow transfer loading times today. App kept crashing during payments.,1,2026-01-02,CBE,Google Play (Simulated),neutral,0.0,Transaction Performance
+245,Failed transfers. System says network error but my balance was deducted.,1,2026-03-22,Dashen,Google Play (Simulated),negative,-0.4588,Transaction Performance
+246,"Very poor customer support, my transaction is pending and chat bot is useless.",1,2026-04-24,BOA,Google Play (Simulated),negative,-0.4989,Transaction Performance
+247,Please add biometric authentication like fingerprint sign in.,2,2026-04-29,Dashen,Google Play (Simulated),positive,0.5859,Account Access & Security
+248,Please add biometric authentication like fingerprint sign in.,4,2026-04-18,Dashen,Google Play (Simulated),positive,0.5859,Account Access & Security
+249,"Great user interface, clean design, but login error pops up frequently.",2,2026-02-17,CBE,Google Play (Simulated),neutral,-0.0387,Account Access & Security
+250,I did not receive the OTP token. Stuck on login screen for hours.,1,2026-02-14,BOA,Google Play (Simulated),negative,-0.25,Account Access & Security
+251,Please add biometric authentication like fingerprint sign in.,3,2026-03-11,Dashen,Google Play (Simulated),positive,0.5859,Account Access & Security
+252,"Awesome banking experience, fast navigation and secure transfers.",5,2026-05-08,Dashen,Google Play (Simulated),positive,0.7579,Transaction Performance
+253,BOA Live is beautiful but it crashes constantly after the latest update.,2,2026-02-04,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+254,"Great user interface, clean design, but login error pops up frequently.",2,2026-04-13,CBE,Google Play (Simulated),neutral,-0.0387,Account Access & Security
+255,Very slow transfer loading times today. App kept crashing during payments.,1,2026-02-28,CBE,Google Play (Simulated),neutral,0.0,Transaction Performance
+256,Smooth transfers and quick notifications. Highly recommended.,5,2026-04-27,BOA,Google Play (Simulated),positive,0.2716,Transaction Performance
+257,Very slow transfer loading times today. App kept crashing during payments.,1,2026-02-26,CBE,Google Play (Simulated),neutral,0.0,Transaction Performance
+258,Failed transfers. System says network error but my balance was deducted.,2,2026-02-12,Dashen,Google Play (Simulated),negative,-0.4588,Transaction Performance
+259,"Excellent app! Transfer speed is fantastic, love the security updates.",5,2026-04-04,CBE,Google Play (Simulated),positive,0.9348,Transaction Performance
+260,Where is the fingerprint login? Typing my long password every time is annoying.,2,2026-05-06,CBE,Google Play (Simulated),negative,-0.4019,Account Access & Security
+261,Failed transfers. System says network error but my balance was deducted.,1,2026-02-05,Dashen,Google Play (Simulated),negative,-0.4588,Transaction Performance
+262,"Very poor customer support, my transaction is pending and chat bot is useless.",2,2026-04-07,BOA,Google Play (Simulated),negative,-0.4989,Transaction Performance
+263,"Very poor customer support, my transaction is pending and chat bot is useless.",1,2026-02-12,BOA,Google Play (Simulated),negative,-0.4989,Transaction Performance
+264,I did not receive the OTP token. Stuck on login screen for hours.,2,2026-03-25,BOA,Google Play (Simulated),negative,-0.25,Account Access & Security
+265,BOA Live is beautiful but it crashes constantly after the latest update.,3,2026-03-02,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+266,"Amole app has a great interface, very clean and navigable navigation.",4,2026-01-29,Dashen,Google Play (Simulated),positive,0.796,UI & User Experience
+267,"Amole app has a great interface, very clean and navigable navigation.",3,2026-04-24,Dashen,Google Play (Simulated),positive,0.796,UI & User Experience
+268,"Very poor customer support, my transaction is pending and chat bot is useless.",1,2026-03-30,BOA,Google Play (Simulated),negative,-0.4989,Transaction Performance
+269,"Excellent app! Transfer speed is fantastic, love the security updates.",5,2026-04-02,CBE,Google Play (Simulated),positive,0.9348,Transaction Performance
+270,Please add biometric authentication like fingerprint sign in.,3,2026-03-16,Dashen,Google Play (Simulated),positive,0.5859,Account Access & Security
+271,I did not receive the OTP token. Stuck on login screen for hours.,1,2026-03-24,BOA,Google Play (Simulated),negative,-0.25,Account Access & Security
+272,"Great user interface, clean design, but login error pops up frequently.",2,2026-02-02,CBE,Google Play (Simulated),neutral,-0.0387,Account Access & Security
+273,"Great user interface, clean design, but login error pops up frequently.",4,2026-03-24,CBE,Google Play (Simulated),neutral,-0.0387,Account Access & Security
+274,"Awesome banking experience, fast navigation and secure transfers.",5,2026-04-29,Dashen,Google Play (Simulated),positive,0.7579,Transaction Performance
+275,"Amole app has a great interface, very clean and navigable navigation.",5,2026-03-06,Dashen,Google Play (Simulated),positive,0.796,UI & User Experience
+276,Very slow transfer loading times today. App kept crashing during payments.,1,2026-02-23,CBE,Google Play (Simulated),neutral,0.0,Transaction Performance
+277,Smooth transfers and quick notifications. Highly recommended.,5,2026-04-30,BOA,Google Play (Simulated),positive,0.2716,Transaction Performance
+278,"Very poor customer support, my transaction is pending and chat bot is useless.",2,2026-05-02,BOA,Google Play (Simulated),negative,-0.4989,Transaction Performance
+279,Failed transfers. System says network error but my balance was deducted.,1,2026-01-07,Dashen,Google Play (Simulated),negative,-0.4588,Transaction Performance
+280,"Great user interface, clean design, but login error pops up frequently.",3,2026-03-12,CBE,Google Play (Simulated),neutral,-0.0387,Account Access & Security
+281,"Very poor customer support, my transaction is pending and chat bot is useless.",2,2026-02-10,BOA,Google Play (Simulated),negative,-0.4989,Transaction Performance
+282,"Excellent app! Transfer speed is fantastic, love the security updates.",5,2026-04-01,CBE,Google Play (Simulated),positive,0.9348,Transaction Performance
+283,"Excellent app! Transfer speed is fantastic, love the security updates.",4,2026-01-26,CBE,Google Play (Simulated),positive,0.9348,Transaction Performance
+284,"Great user interface, clean design, but login error pops up frequently.",4,2026-01-10,CBE,Google Play (Simulated),neutral,-0.0387,Account Access & Security
+285,"Awesome banking experience, fast navigation and secure transfers.",5,2026-04-24,Dashen,Google Play (Simulated),positive,0.7579,Transaction Performance
+286,Very slow transfer loading times today. App kept crashing during payments.,1,2026-04-29,CBE,Google Play (Simulated),neutral,0.0,Transaction Performance
+287,"Great user interface, clean design, but login error pops up frequently.",3,2026-03-09,CBE,Google Play (Simulated),neutral,-0.0387,Account Access & Security
+288,"Excellent app! Transfer speed is fantastic, love the security updates.",4,2026-03-16,CBE,Google Play (Simulated),positive,0.9348,Transaction Performance
+289,"Amole app has a great interface, very clean and navigable navigation.",4,2026-02-22,Dashen,Google Play (Simulated),positive,0.796,UI & User Experience
+290,Smooth transfers and quick notifications. Highly recommended.,5,2026-03-02,BOA,Google Play (Simulated),positive,0.2716,Transaction Performance
+291,Failed transfers. System says network error but my balance was deducted.,2,2026-04-19,Dashen,Google Play (Simulated),negative,-0.4588,Transaction Performance
+292,"Awesome banking experience, fast navigation and secure transfers.",5,2026-02-07,Dashen,Google Play (Simulated),positive,0.7579,Transaction Performance
+293,"Amole app has a great interface, very clean and navigable navigation.",5,2026-04-17,Dashen,Google Play (Simulated),positive,0.796,UI & User Experience
+294,"Amole app has a great interface, very clean and navigable navigation.",5,2026-03-31,Dashen,Google Play (Simulated),positive,0.796,UI & User Experience
+295,I did not receive the OTP token. Stuck on login screen for hours.,1,2026-01-20,BOA,Google Play (Simulated),negative,-0.25,Account Access & Security
+296,BOA Live is beautiful but it crashes constantly after the latest update.,2,2026-02-17,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+297,Failed transfers. System says network error but my balance was deducted.,1,2026-05-03,Dashen,Google Play (Simulated),negative,-0.4588,Transaction Performance
+298,Where is the fingerprint login? Typing my long password every time is annoying.,1,2026-04-09,CBE,Google Play (Simulated),negative,-0.4019,Account Access & Security
+299,Where is the fingerprint login? Typing my long password every time is annoying.,2,2026-05-04,CBE,Google Play (Simulated),negative,-0.4019,Account Access & Security
+300,Failed transfers. System says network error but my balance was deducted.,1,2026-05-01,Dashen,Google Play (Simulated),negative,-0.4588,Transaction Performance
+301,Failed transfers. System says network error but my balance was deducted.,1,2026-03-04,Dashen,Google Play (Simulated),negative,-0.4588,Transaction Performance
+302,Where is the fingerprint login? Typing my long password every time is annoying.,3,2026-02-05,CBE,Google Play (Simulated),negative,-0.4019,Account Access & Security
+303,Very slow transfer loading times today. App kept crashing during payments.,2,2026-04-22,CBE,Google Play (Simulated),neutral,0.0,Transaction Performance
+304,Smooth transfers and quick notifications. Highly recommended.,5,2026-03-24,BOA,Google Play (Simulated),positive,0.2716,Transaction Performance
+305,Please add biometric authentication like fingerprint sign in.,4,2026-03-14,Dashen,Google Play (Simulated),positive,0.5859,Account Access & Security
+306,I did not receive the OTP token. Stuck on login screen for hours.,2,2026-02-14,BOA,Google Play (Simulated),negative,-0.25,Account Access & Security
+307,Very slow transfer loading times today. App kept crashing during payments.,1,2026-01-31,CBE,Google Play (Simulated),neutral,0.0,Transaction Performance
+308,"Very poor customer support, my transaction is pending and chat bot is useless.",1,2026-04-01,BOA,Google Play (Simulated),negative,-0.4989,Transaction Performance
+309,"Excellent app! Transfer speed is fantastic, love the security updates.",4,2026-02-10,CBE,Google Play (Simulated),positive,0.9348,Transaction Performance
+310,Failed transfers. System says network error but my balance was deducted.,1,2026-04-19,Dashen,Google Play (Simulated),negative,-0.4588,Transaction Performance
+311,BOA Live is beautiful but it crashes constantly after the latest update.,1,2026-01-03,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+312,"Amole app has a great interface, very clean and navigable navigation.",3,2026-04-29,Dashen,Google Play (Simulated),positive,0.796,UI & User Experience
+313,"Great user interface, clean design, but login error pops up frequently.",2,2026-04-22,CBE,Google Play (Simulated),neutral,-0.0387,Account Access & Security
+314,Please add biometric authentication like fingerprint sign in.,3,2026-04-15,Dashen,Google Play (Simulated),positive,0.5859,Account Access & Security
+315,BOA Live is beautiful but it crashes constantly after the latest update.,1,2026-02-06,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+316,Smooth transfers and quick notifications. Highly recommended.,5,2026-03-30,BOA,Google Play (Simulated),positive,0.2716,Transaction Performance
+317,"Excellent app! Transfer speed is fantastic, love the security updates.",4,2026-03-16,CBE,Google Play (Simulated),positive,0.9348,Transaction Performance
+318,Failed transfers. System says network error but my balance was deducted.,1,2026-04-13,Dashen,Google Play (Simulated),negative,-0.4588,Transaction Performance
+319,"Very poor customer support, my transaction is pending and chat bot is useless.",1,2026-04-07,BOA,Google Play (Simulated),negative,-0.4989,Transaction Performance
+320,"Great user interface, clean design, but login error pops up frequently.",3,2026-02-06,CBE,Google Play (Simulated),neutral,-0.0387,Account Access & Security
+321,"Excellent app! Transfer speed is fantastic, love the security updates.",4,2026-03-04,CBE,Google Play (Simulated),positive,0.9348,Transaction Performance
+322,I did not receive the OTP token. Stuck on login screen for hours.,1,2026-01-02,BOA,Google Play (Simulated),negative,-0.25,Account Access & Security
+323,"Amole app has a great interface, very clean and navigable navigation.",5,2026-04-24,Dashen,Google Play (Simulated),positive,0.796,UI & User Experience
+324,"Great user interface, clean design, but login error pops up frequently.",3,2026-03-03,CBE,Google Play (Simulated),neutral,-0.0387,Account Access & Security
+325,"Amole app has a great interface, very clean and navigable navigation.",4,2026-01-31,Dashen,Google Play (Simulated),positive,0.796,UI & User Experience
+326,"Excellent app! Transfer speed is fantastic, love the security updates.",5,2026-03-31,CBE,Google Play (Simulated),positive,0.9348,Transaction Performance
+327,Where is the fingerprint login? Typing my long password every time is annoying.,3,2026-01-09,CBE,Google Play (Simulated),negative,-0.4019,Account Access & Security
+328,Very slow transfer loading times today. App kept crashing during payments.,1,2026-03-31,CBE,Google Play (Simulated),neutral,0.0,Transaction Performance
+329,"Very poor customer support, my transaction is pending and chat bot is useless.",2,2026-04-27,BOA,Google Play (Simulated),negative,-0.4989,Transaction Performance
+330,BOA Live is beautiful but it crashes constantly after the latest update.,3,2026-04-29,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+331,I did not receive the OTP token. Stuck on login screen for hours.,2,2026-05-01,BOA,Google Play (Simulated),negative,-0.25,Account Access & Security
+332,Smooth transfers and quick notifications. Highly recommended.,5,2026-02-11,BOA,Google Play (Simulated),positive,0.2716,Transaction Performance
+333,"Great user interface, clean design, but login error pops up frequently.",4,2026-01-09,CBE,Google Play (Simulated),neutral,-0.0387,Account Access & Security
+334,"Amole app has a great interface, very clean and navigable navigation.",3,2026-02-08,Dashen,Google Play (Simulated),positive,0.796,UI & User Experience
+335,Where is the fingerprint login? Typing my long password every time is annoying.,3,2026-01-17,CBE,Google Play (Simulated),negative,-0.4019,Account Access & Security
+336,"Awesome banking experience, fast navigation and secure transfers.",4,2026-04-02,Dashen,Google Play (Simulated),positive,0.7579,Transaction Performance
+337,BOA Live is beautiful but it crashes constantly after the latest update.,2,2026-04-20,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+338,Please add biometric authentication like fingerprint sign in.,2,2026-04-29,Dashen,Google Play (Simulated),positive,0.5859,Account Access & Security
+339,"Amole app has a great interface, very clean and navigable navigation.",5,2026-01-16,Dashen,Google Play (Simulated),positive,0.796,UI & User Experience
+340,Failed transfers. System says network error but my balance was deducted.,1,2026-01-07,Dashen,Google Play (Simulated),negative,-0.4588,Transaction Performance
+341,"Excellent app! Transfer speed is fantastic, love the security updates.",5,2026-01-10,CBE,Google Play (Simulated),positive,0.9348,Transaction Performance
+342,Very slow transfer loading times today. App kept crashing during payments.,1,2026-01-21,CBE,Google Play (Simulated),neutral,0.0,Transaction Performance
+343,BOA Live is beautiful but it crashes constantly after the latest update.,3,2026-03-27,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+344,"Very poor customer support, my transaction is pending and chat bot is useless.",2,2026-03-12,BOA,Google Play (Simulated),negative,-0.4989,Transaction Performance
+345,BOA Live is beautiful but it crashes constantly after the latest update.,3,2026-01-16,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+346,Where is the fingerprint login? Typing my long password every time is annoying.,1,2026-03-27,CBE,Google Play (Simulated),negative,-0.4019,Account Access & Security
+347,Failed transfers. System says network error but my balance was deducted.,2,2026-03-02,Dashen,Google Play (Simulated),negative,-0.4588,Transaction Performance
+348,I did not receive the OTP token. Stuck on login screen for hours.,1,2026-01-03,BOA,Google Play (Simulated),negative,-0.25,Account Access & Security
+349,Failed transfers. System says network error but my balance was deducted.,1,2026-02-18,Dashen,Google Play (Simulated),negative,-0.4588,Transaction Performance
+350,"Amole app has a great interface, very clean and navigable navigation.",3,2026-01-18,Dashen,Google Play (Simulated),positive,0.796,UI & User Experience
+351,"Very poor customer support, my transaction is pending and chat bot is useless.",1,2026-01-08,BOA,Google Play (Simulated),negative,-0.4989,Transaction Performance
+352,"Very poor customer support, my transaction is pending and chat bot is useless.",2,2026-01-07,BOA,Google Play (Simulated),negative,-0.4989,Transaction Performance
+353,"Excellent app! Transfer speed is fantastic, love the security updates.",5,2026-03-10,CBE,Google Play (Simulated),positive,0.9348,Transaction Performance
+354,Please add biometric authentication like fingerprint sign in.,3,2026-01-12,Dashen,Google Play (Simulated),positive,0.5859,Account Access & Security
+355,Very slow transfer loading times today. App kept crashing during payments.,1,2026-02-07,CBE,Google Play (Simulated),neutral,0.0,Transaction Performance
+356,Where is the fingerprint login? Typing my long password every time is annoying.,2,2026-03-28,CBE,Google Play (Simulated),negative,-0.4019,Account Access & Security
+357,Very slow transfer loading times today. App kept crashing during payments.,2,2026-02-12,CBE,Google Play (Simulated),neutral,0.0,Transaction Performance
+358,Where is the fingerprint login? Typing my long password every time is annoying.,1,2026-01-12,CBE,Google Play (Simulated),negative,-0.4019,Account Access & Security
+359,Please add biometric authentication like fingerprint sign in.,4,2026-03-05,Dashen,Google Play (Simulated),positive,0.5859,Account Access & Security
+360,"Awesome banking experience, fast navigation and secure transfers.",5,2026-03-26,Dashen,Google Play (Simulated),positive,0.7579,Transaction Performance
+361,BOA Live is beautiful but it crashes constantly after the latest update.,1,2026-03-31,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+362,Smooth transfers and quick notifications. Highly recommended.,4,2026-03-03,BOA,Google Play (Simulated),positive,0.2716,Transaction Performance
+363,I did not receive the OTP token. Stuck on login screen for hours.,1,2026-02-06,BOA,Google Play (Simulated),negative,-0.25,Account Access & Security
+364,Failed transfers. System says network error but my balance was deducted.,1,2026-01-23,Dashen,Google Play (Simulated),negative,-0.4588,Transaction Performance
+365,"Awesome banking experience, fast navigation and secure transfers.",4,2026-04-25,Dashen,Google Play (Simulated),positive,0.7579,Transaction Performance
+366,"Excellent app! Transfer speed is fantastic, love the security updates.",4,2026-05-05,CBE,Google Play (Simulated),positive,0.9348,Transaction Performance
+367,Where is the fingerprint login? Typing my long password every time is annoying.,1,2026-05-10,CBE,Google Play (Simulated),negative,-0.4019,Account Access & Security
+368,Smooth transfers and quick notifications. Highly recommended.,4,2026-01-29,BOA,Google Play (Simulated),positive,0.2716,Transaction Performance
+369,Very slow transfer loading times today. App kept crashing during payments.,1,2026-03-01,CBE,Google Play (Simulated),neutral,0.0,Transaction Performance
+370,Smooth transfers and quick notifications. Highly recommended.,4,2026-03-07,BOA,Google Play (Simulated),positive,0.2716,Transaction Performance
+371,Failed transfers. System says network error but my balance was deducted.,2,2026-04-16,Dashen,Google Play (Simulated),negative,-0.4588,Transaction Performance
+372,Failed transfers. System says network error but my balance was deducted.,1,2026-01-05,Dashen,Google Play (Simulated),negative,-0.4588,Transaction Performance
+373,Failed transfers. System says network error but my balance was deducted.,1,2026-05-06,Dashen,Google Play (Simulated),negative,-0.4588,Transaction Performance
+374,Failed transfers. System says network error but my balance was deducted.,1,2026-04-13,Dashen,Google Play (Simulated),negative,-0.4588,Transaction Performance
+375,I did not receive the OTP token. Stuck on login screen for hours.,1,2026-01-23,BOA,Google Play (Simulated),negative,-0.25,Account Access & Security
+376,"Excellent app! Transfer speed is fantastic, love the security updates.",5,2026-01-19,CBE,Google Play (Simulated),positive,0.9348,Transaction Performance
+377,BOA Live is beautiful but it crashes constantly after the latest update.,1,2026-01-12,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+378,Where is the fingerprint login? Typing my long password every time is annoying.,3,2026-01-09,CBE,Google Play (Simulated),negative,-0.4019,Account Access & Security
+379,"Amole app has a great interface, very clean and navigable navigation.",3,2026-01-21,Dashen,Google Play (Simulated),positive,0.796,UI & User Experience
+380,"Amole app has a great interface, very clean and navigable navigation.",3,2026-01-04,Dashen,Google Play (Simulated),positive,0.796,UI & User Experience
+381,"Amole app has a great interface, very clean and navigable navigation.",3,2026-01-22,Dashen,Google Play (Simulated),positive,0.796,UI & User Experience
+382,"Very poor customer support, my transaction is pending and chat bot is useless.",1,2026-02-13,BOA,Google Play (Simulated),negative,-0.4989,Transaction Performance
+383,Very slow transfer loading times today. App kept crashing during payments.,2,2026-02-24,CBE,Google Play (Simulated),neutral,0.0,Transaction Performance
+384,Please add biometric authentication like fingerprint sign in.,3,2026-05-09,Dashen,Google Play (Simulated),positive,0.5859,Account Access & Security
+385,"Very poor customer support, my transaction is pending and chat bot is useless.",2,2026-04-05,BOA,Google Play (Simulated),negative,-0.4989,Transaction Performance
+386,"Amole app has a great interface, very clean and navigable navigation.",3,2026-03-22,Dashen,Google Play (Simulated),positive,0.796,UI & User Experience
+387,"Very poor customer support, my transaction is pending and chat bot is useless.",1,2026-03-22,BOA,Google Play (Simulated),negative,-0.4989,Transaction Performance
+388,BOA Live is beautiful but it crashes constantly after the latest update.,3,2026-03-12,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+389,"Amole app has a great interface, very clean and navigable navigation.",4,2026-01-01,Dashen,Google Play (Simulated),positive,0.796,UI & User Experience
+390,Please add biometric authentication like fingerprint sign in.,4,2026-03-17,Dashen,Google Play (Simulated),positive,0.5859,Account Access & Security
+391,Where is the fingerprint login? Typing my long password every time is annoying.,1,2026-05-03,CBE,Google Play (Simulated),negative,-0.4019,Account Access & Security
+392,Please add biometric authentication like fingerprint sign in.,2,2026-03-16,Dashen,Google Play (Simulated),positive,0.5859,Account Access & Security
+393,"Excellent app! Transfer speed is fantastic, love the security updates.",5,2026-04-06,CBE,Google Play (Simulated),positive,0.9348,Transaction Performance
+394,"Great user interface, clean design, but login error pops up frequently.",2,2026-03-11,CBE,Google Play (Simulated),neutral,-0.0387,Account Access & Security
+395,Please add biometric authentication like fingerprint sign in.,4,2026-03-05,Dashen,Google Play (Simulated),positive,0.5859,Account Access & Security
+396,Failed transfers. System says network error but my balance was deducted.,1,2026-02-01,Dashen,Google Play (Simulated),negative,-0.4588,Transaction Performance
+397,BOA Live is beautiful but it crashes constantly after the latest update.,3,2026-01-09,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+398,"Very poor customer support, my transaction is pending and chat bot is useless.",1,2026-04-12,BOA,Google Play (Simulated),negative,-0.4989,Transaction Performance
+399,Smooth transfers and quick notifications. Highly recommended.,5,2026-01-01,BOA,Google Play (Simulated),positive,0.2716,Transaction Performance
+400,Where is the fingerprint login? Typing my long password every time is annoying.,1,2026-01-14,CBE,Google Play (Simulated),negative,-0.4019,Account Access & Security
+401,Where is the fingerprint login? Typing my long password every time is annoying.,3,2026-02-23,CBE,Google Play (Simulated),negative,-0.4019,Account Access & Security
+402,Failed transfers. System says network error but my balance was deducted.,1,2026-02-18,Dashen,Google Play (Simulated),negative,-0.4588,Transaction Performance
+403,"Amole app has a great interface, very clean and navigable navigation.",3,2026-03-28,Dashen,Google Play (Simulated),positive,0.796,UI & User Experience
+404,BOA Live is beautiful but it crashes constantly after the latest update.,1,2026-03-18,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+405,"Awesome banking experience, fast navigation and secure transfers.",5,2026-02-16,Dashen,Google Play (Simulated),positive,0.7579,Transaction Performance
+406,"Great user interface, clean design, but login error pops up frequently.",3,2026-01-24,CBE,Google Play (Simulated),neutral,-0.0387,Account Access & Security
+407,"Awesome banking experience, fast navigation and secure transfers.",5,2026-03-04,Dashen,Google Play (Simulated),positive,0.7579,Transaction Performance
+408,I did not receive the OTP token. Stuck on login screen for hours.,1,2026-04-12,BOA,Google Play (Simulated),negative,-0.25,Account Access & Security
+409,Smooth transfers and quick notifications. Highly recommended.,4,2026-02-26,BOA,Google Play (Simulated),positive,0.2716,Transaction Performance
+410,Very slow transfer loading times today. App kept crashing during payments.,2,2026-02-19,CBE,Google Play (Simulated),neutral,0.0,Transaction Performance
+411,"Awesome banking experience, fast navigation and secure transfers.",5,2026-03-14,Dashen,Google Play (Simulated),positive,0.7579,Transaction Performance
+412,"Amole app has a great interface, very clean and navigable navigation.",5,2026-01-25,Dashen,Google Play (Simulated),positive,0.796,UI & User Experience
+413,"Amole app has a great interface, very clean and navigable navigation.",3,2026-03-09,Dashen,Google Play (Simulated),positive,0.796,UI & User Experience
+414,Very slow transfer loading times today. App kept crashing during payments.,1,2026-01-17,CBE,Google Play (Simulated),neutral,0.0,Transaction Performance
+415,BOA Live is beautiful but it crashes constantly after the latest update.,2,2026-01-21,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+416,"Excellent app! Transfer speed is fantastic, love the security updates.",5,2026-01-02,CBE,Google Play (Simulated),positive,0.9348,Transaction Performance
+417,"Awesome banking experience, fast navigation and secure transfers.",5,2026-05-08,Dashen,Google Play (Simulated),positive,0.7579,Transaction Performance
+418,Failed transfers. System says network error but my balance was deducted.,1,2026-02-25,Dashen,Google Play (Simulated),negative,-0.4588,Transaction Performance
+419,"Awesome banking experience, fast navigation and secure transfers.",4,2026-01-31,Dashen,Google Play (Simulated),positive,0.7579,Transaction Performance
+420,Please add biometric authentication like fingerprint sign in.,3,2026-04-25,Dashen,Google Play (Simulated),positive,0.5859,Account Access & Security
+421,BOA Live is beautiful but it crashes constantly after the latest update.,2,2026-01-22,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+422,"Very poor customer support, my transaction is pending and chat bot is useless.",2,2026-04-08,BOA,Google Play (Simulated),negative,-0.4989,Transaction Performance
+423,"Very poor customer support, my transaction is pending and chat bot is useless.",2,2026-03-10,BOA,Google Play (Simulated),negative,-0.4989,Transaction Performance
+424,I did not receive the OTP token. Stuck on login screen for hours.,1,2026-03-20,BOA,Google Play (Simulated),negative,-0.25,Account Access & Security
+425,"Great user interface, clean design, but login error pops up frequently.",2,2026-04-02,CBE,Google Play (Simulated),neutral,-0.0387,Account Access & Security
+426,"Very poor customer support, my transaction is pending and chat bot is useless.",1,2026-04-09,BOA,Google Play (Simulated),negative,-0.4989,Transaction Performance
+427,"Excellent app! Transfer speed is fantastic, love the security updates.",4,2026-02-01,CBE,Google Play (Simulated),positive,0.9348,Transaction Performance
+428,"Excellent app! Transfer speed is fantastic, love the security updates.",4,2026-05-02,CBE,Google Play (Simulated),positive,0.9348,Transaction Performance
+429,I did not receive the OTP token. Stuck on login screen for hours.,2,2026-05-06,BOA,Google Play (Simulated),negative,-0.25,Account Access & Security
+430,"Very poor customer support, my transaction is pending and chat bot is useless.",1,2026-05-06,BOA,Google Play (Simulated),negative,-0.4989,Transaction Performance
+431,Please add biometric authentication like fingerprint sign in.,4,2026-05-07,Dashen,Google Play (Simulated),positive,0.5859,Account Access & Security
+432,Failed transfers. System says network error but my balance was deducted.,1,2026-05-01,Dashen,Google Play (Simulated),negative,-0.4588,Transaction Performance
+433,I did not receive the OTP token. Stuck on login screen for hours.,1,2026-02-20,BOA,Google Play (Simulated),negative,-0.25,Account Access & Security
+434,Please add biometric authentication like fingerprint sign in.,3,2026-01-18,Dashen,Google Play (Simulated),positive,0.5859,Account Access & Security
+435,Failed transfers. System says network error but my balance was deducted.,1,2026-04-25,Dashen,Google Play (Simulated),negative,-0.4588,Transaction Performance
+436,Where is the fingerprint login? Typing my long password every time is annoying.,3,2026-04-06,CBE,Google Play (Simulated),negative,-0.4019,Account Access & Security
+437,"Awesome banking experience, fast navigation and secure transfers.",4,2026-03-24,Dashen,Google Play (Simulated),positive,0.7579,Transaction Performance
+438,"Excellent app! Transfer speed is fantastic, love the security updates.",4,2026-01-01,CBE,Google Play (Simulated),positive,0.9348,Transaction Performance
+439,Where is the fingerprint login? Typing my long password every time is annoying.,3,2026-04-18,CBE,Google Play (Simulated),negative,-0.4019,Account Access & Security
+440,"Amole app has a great interface, very clean and navigable navigation.",4,2026-03-08,Dashen,Google Play (Simulated),positive,0.796,UI & User Experience
+441,"Excellent app! Transfer speed is fantastic, love the security updates.",5,2026-01-04,CBE,Google Play (Simulated),positive,0.9348,Transaction Performance
+442,Very slow transfer loading times today. App kept crashing during payments.,1,2026-04-28,CBE,Google Play (Simulated),neutral,0.0,Transaction Performance
+443,Failed transfers. System says network error but my balance was deducted.,2,2026-03-14,Dashen,Google Play (Simulated),negative,-0.4588,Transaction Performance
+444,"Excellent app! Transfer speed is fantastic, love the security updates.",5,2026-03-19,CBE,Google Play (Simulated),positive,0.9348,Transaction Performance
+445,"Great user interface, clean design, but login error pops up frequently.",4,2026-05-06,CBE,Google Play (Simulated),neutral,-0.0387,Account Access & Security
+446,Where is the fingerprint login? Typing my long password every time is annoying.,2,2026-04-20,CBE,Google Play (Simulated),negative,-0.4019,Account Access & Security
+447,Where is the fingerprint login? Typing my long password every time is annoying.,2,2026-02-11,CBE,Google Play (Simulated),negative,-0.4019,Account Access & Security
+448,Where is the fingerprint login? Typing my long password every time is annoying.,1,2026-04-01,CBE,Google Play (Simulated),negative,-0.4019,Account Access & Security
+449,Very slow transfer loading times today. App kept crashing during payments.,1,2026-04-05,CBE,Google Play (Simulated),neutral,0.0,Transaction Performance
+450,"Amole app has a great interface, very clean and navigable navigation.",3,2026-01-19,Dashen,Google Play (Simulated),positive,0.796,UI & User Experience
+451,"Excellent app! Transfer speed is fantastic, love the security updates.",4,2026-03-27,CBE,Google Play (Simulated),positive,0.9348,Transaction Performance
+452,BOA Live is beautiful but it crashes constantly after the latest update.,2,2026-04-29,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+453,Please add biometric authentication like fingerprint sign in.,3,2026-02-07,Dashen,Google Play (Simulated),positive,0.5859,Account Access & Security
+454,Please add biometric authentication like fingerprint sign in.,3,2026-01-13,Dashen,Google Play (Simulated),positive,0.5859,Account Access & Security
+455,Where is the fingerprint login? Typing my long password every time is annoying.,3,2026-04-12,CBE,Google Play (Simulated),negative,-0.4019,Account Access & Security
+456,"Excellent app! Transfer speed is fantastic, love the security updates.",5,2026-01-15,CBE,Google Play (Simulated),positive,0.9348,Transaction Performance
+457,BOA Live is beautiful but it crashes constantly after the latest update.,1,2026-05-10,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+458,Please add biometric authentication like fingerprint sign in.,3,2026-02-03,Dashen,Google Play (Simulated),positive,0.5859,Account Access & Security
+459,"Awesome banking experience, fast navigation and secure transfers.",4,2026-03-07,Dashen,Google Play (Simulated),positive,0.7579,Transaction Performance
+460,I did not receive the OTP token. Stuck on login screen for hours.,1,2026-05-10,BOA,Google Play (Simulated),negative,-0.25,Account Access & Security
+461,Where is the fingerprint login? Typing my long password every time is annoying.,1,2026-04-04,CBE,Google Play (Simulated),negative,-0.4019,Account Access & Security
+462,Where is the fingerprint login? Typing my long password every time is annoying.,3,2026-03-17,CBE,Google Play (Simulated),negative,-0.4019,Account Access & Security
+463,"Amole app has a great interface, very clean and navigable navigation.",5,2026-03-22,Dashen,Google Play (Simulated),positive,0.796,UI & User Experience
+464,"Excellent app! Transfer speed is fantastic, love the security updates.",4,2026-03-16,CBE,Google Play (Simulated),positive,0.9348,Transaction Performance
+465,Failed transfers. System says network error but my balance was deducted.,1,2026-02-03,Dashen,Google Play (Simulated),negative,-0.4588,Transaction Performance
+466,"Great user interface, clean design, but login error pops up frequently.",2,2026-04-15,CBE,Google Play (Simulated),neutral,-0.0387,Account Access & Security
+467,Please add biometric authentication like fingerprint sign in.,2,2026-01-27,Dashen,Google Play (Simulated),positive,0.5859,Account Access & Security
+468,Very slow transfer loading times today. App kept crashing during payments.,2,2026-04-17,CBE,Google Play (Simulated),neutral,0.0,Transaction Performance
+469,Failed transfers. System says network error but my balance was deducted.,1,2026-04-30,Dashen,Google Play (Simulated),negative,-0.4588,Transaction Performance
+470,BOA Live is beautiful but it crashes constantly after the latest update.,1,2026-04-08,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+471,"Great user interface, clean design, but login error pops up frequently.",4,2026-04-16,CBE,Google Play (Simulated),neutral,-0.0387,Account Access & Security
+472,Smooth transfers and quick notifications. Highly recommended.,5,2026-05-01,BOA,Google Play (Simulated),positive,0.2716,Transaction Performance
+473,"Great user interface, clean design, but login error pops up frequently.",2,2026-04-26,CBE,Google Play (Simulated),neutral,-0.0387,Account Access & Security
+474,Please add biometric authentication like fingerprint sign in.,3,2026-02-28,Dashen,Google Play (Simulated),positive,0.5859,Account Access & Security
+475,"Excellent app! Transfer speed is fantastic, love the security updates.",5,2026-03-22,CBE,Google Play (Simulated),positive,0.9348,Transaction Performance
+476,Where is the fingerprint login? Typing my long password every time is annoying.,2,2026-03-11,CBE,Google Play (Simulated),negative,-0.4019,Account Access & Security
+477,"Very poor customer support, my transaction is pending and chat bot is useless.",2,2026-01-07,BOA,Google Play (Simulated),negative,-0.4989,Transaction Performance
+478,"Excellent app! Transfer speed is fantastic, love the security updates.",4,2026-02-01,CBE,Google Play (Simulated),positive,0.9348,Transaction Performance
+479,"Great user interface, clean design, but login error pops up frequently.",4,2026-04-26,CBE,Google Play (Simulated),neutral,-0.0387,Account Access & Security
+480,"Excellent app! Transfer speed is fantastic, love the security updates.",5,2026-03-06,CBE,Google Play (Simulated),positive,0.9348,Transaction Performance
+481,Very slow transfer loading times today. App kept crashing during payments.,1,2026-01-08,CBE,Google Play (Simulated),neutral,0.0,Transaction Performance
+482,Please add biometric authentication like fingerprint sign in.,4,2026-01-06,Dashen,Google Play (Simulated),positive,0.5859,Account Access & Security
+483,Where is the fingerprint login? Typing my long password every time is annoying.,1,2026-04-11,CBE,Google Play (Simulated),negative,-0.4019,Account Access & Security
+484,I did not receive the OTP token. Stuck on login screen for hours.,2,2026-03-28,BOA,Google Play (Simulated),negative,-0.25,Account Access & Security
+485,I did not receive the OTP token. Stuck on login screen for hours.,1,2026-02-22,BOA,Google Play (Simulated),negative,-0.25,Account Access & Security
+486,BOA Live is beautiful but it crashes constantly after the latest update.,3,2026-02-12,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+487,Smooth transfers and quick notifications. Highly recommended.,5,2026-03-05,BOA,Google Play (Simulated),positive,0.2716,Transaction Performance
+488,Failed transfers. System says network error but my balance was deducted.,1,2026-03-10,Dashen,Google Play (Simulated),negative,-0.4588,Transaction Performance
+489,"Awesome banking experience, fast navigation and secure transfers.",5,2026-04-08,Dashen,Google Play (Simulated),positive,0.7579,Transaction Performance
+490,Failed transfers. System says network error but my balance was deducted.,1,2026-03-24,Dashen,Google Play (Simulated),negative,-0.4588,Transaction Performance
+491,"Amole app has a great interface, very clean and navigable navigation.",3,2026-03-16,Dashen,Google Play (Simulated),positive,0.796,UI & User Experience
+492,"Awesome banking experience, fast navigation and secure transfers.",5,2026-01-24,Dashen,Google Play (Simulated),positive,0.7579,Transaction Performance
+493,"Awesome banking experience, fast navigation and secure transfers.",4,2026-02-20,Dashen,Google Play (Simulated),positive,0.7579,Transaction Performance
+494,"Amole app has a great interface, very clean and navigable navigation.",3,2026-02-14,Dashen,Google Play (Simulated),positive,0.796,UI & User Experience
+495,Where is the fingerprint login? Typing my long password every time is annoying.,1,2026-02-05,CBE,Google Play (Simulated),negative,-0.4019,Account Access & Security
+496,"Great user interface, clean design, but login error pops up frequently.",4,2026-03-26,CBE,Google Play (Simulated),neutral,-0.0387,Account Access & Security
+497,I did not receive the OTP token. Stuck on login screen for hours.,2,2026-04-20,BOA,Google Play (Simulated),negative,-0.25,Account Access & Security
+498,"Awesome banking experience, fast navigation and secure transfers.",5,2026-01-25,Dashen,Google Play (Simulated),positive,0.7579,Transaction Performance
+499,Very slow transfer loading times today. App kept crashing during payments.,1,2026-01-01,CBE,Google Play (Simulated),neutral,0.0,Transaction Performance
+500,"Very poor customer support, my transaction is pending and chat bot is useless.",2,2026-04-29,BOA,Google Play (Simulated),negative,-0.4989,Transaction Performance
+501,"Excellent app! Transfer speed is fantastic, love the security updates.",4,2026-02-23,CBE,Google Play (Simulated),positive,0.9348,Transaction Performance
+502,Failed transfers. System says network error but my balance was deducted.,2,2026-03-18,Dashen,Google Play (Simulated),negative,-0.4588,Transaction Performance
+503,BOA Live is beautiful but it crashes constantly after the latest update.,3,2026-01-29,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+504,"Amole app has a great interface, very clean and navigable navigation.",3,2026-02-01,Dashen,Google Play (Simulated),positive,0.796,UI & User Experience
+505,"Very poor customer support, my transaction is pending and chat bot is useless.",1,2026-04-25,BOA,Google Play (Simulated),negative,-0.4989,Transaction Performance
+506,"Excellent app! Transfer speed is fantastic, love the security updates.",5,2026-01-02,CBE,Google Play (Simulated),positive,0.9348,Transaction Performance
+507,"Excellent app! Transfer speed is fantastic, love the security updates.",5,2026-05-06,CBE,Google Play (Simulated),positive,0.9348,Transaction Performance
+508,"Excellent app! Transfer speed is fantastic, love the security updates.",4,2026-01-14,CBE,Google Play (Simulated),positive,0.9348,Transaction Performance
+509,Where is the fingerprint login? Typing my long password every time is annoying.,1,2026-03-20,CBE,Google Play (Simulated),negative,-0.4019,Account Access & Security
+510,Failed transfers. System says network error but my balance was deducted.,2,2026-01-22,Dashen,Google Play (Simulated),negative,-0.4588,Transaction Performance
+511,Please add biometric authentication like fingerprint sign in.,3,2026-04-08,Dashen,Google Play (Simulated),positive,0.5859,Account Access & Security
+512,"Very poor customer support, my transaction is pending and chat bot is useless.",1,2026-03-12,BOA,Google Play (Simulated),negative,-0.4989,Transaction Performance
+513,Smooth transfers and quick notifications. Highly recommended.,5,2026-01-12,BOA,Google Play (Simulated),positive,0.2716,Transaction Performance
+514,"Awesome banking experience, fast navigation and secure transfers.",5,2026-03-05,Dashen,Google Play (Simulated),positive,0.7579,Transaction Performance
+515,"Amole app has a great interface, very clean and navigable navigation.",4,2026-03-03,Dashen,Google Play (Simulated),positive,0.796,UI & User Experience
+516,I did not receive the OTP token. Stuck on login screen for hours.,1,2026-04-23,BOA,Google Play (Simulated),negative,-0.25,Account Access & Security
+517,"Very poor customer support, my transaction is pending and chat bot is useless.",1,2026-02-12,BOA,Google Play (Simulated),negative,-0.4989,Transaction Performance
+518,"Amole app has a great interface, very clean and navigable navigation.",4,2026-05-08,Dashen,Google Play (Simulated),positive,0.796,UI & User Experience
+519,"Excellent app! Transfer speed is fantastic, love the security updates.",5,2026-04-16,CBE,Google Play (Simulated),positive,0.9348,Transaction Performance
+520,Please add biometric authentication like fingerprint sign in.,4,2026-02-24,Dashen,Google Play (Simulated),positive,0.5859,Account Access & Security
+521,"Amole app has a great interface, very clean and navigable navigation.",4,2026-02-04,Dashen,Google Play (Simulated),positive,0.796,UI & User Experience
+522,Where is the fingerprint login? Typing my long password every time is annoying.,3,2026-03-28,CBE,Google Play (Simulated),negative,-0.4019,Account Access & Security
+523,Where is the fingerprint login? Typing my long password every time is annoying.,3,2026-01-11,CBE,Google Play (Simulated),negative,-0.4019,Account Access & Security
+524,BOA Live is beautiful but it crashes constantly after the latest update.,1,2026-04-05,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+525,I did not receive the OTP token. Stuck on login screen for hours.,1,2026-05-11,BOA,Google Play (Simulated),negative,-0.25,Account Access & Security
+526,"Amole app has a great interface, very clean and navigable navigation.",5,2026-01-13,Dashen,Google Play (Simulated),positive,0.796,UI & User Experience
+527,"Very poor customer support, my transaction is pending and chat bot is useless.",1,2026-04-06,BOA,Google Play (Simulated),negative,-0.4989,Transaction Performance
+528,"Great user interface, clean design, but login error pops up frequently.",4,2026-02-20,CBE,Google Play (Simulated),neutral,-0.0387,Account Access & Security
+529,BOA Live is beautiful but it crashes constantly after the latest update.,1,2026-04-13,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+530,"Awesome banking experience, fast navigation and secure transfers.",5,2026-03-13,Dashen,Google Play (Simulated),positive,0.7579,Transaction Performance
+531,"Excellent app! Transfer speed is fantastic, love the security updates.",4,2026-03-01,CBE,Google Play (Simulated),positive,0.9348,Transaction Performance
+532,Please add biometric authentication like fingerprint sign in.,4,2026-04-01,Dashen,Google Play (Simulated),positive,0.5859,Account Access & Security
+533,"Great user interface, clean design, but login error pops up frequently.",4,2026-03-15,CBE,Google Play (Simulated),neutral,-0.0387,Account Access & Security
+534,Smooth transfers and quick notifications. Highly recommended.,5,2026-02-25,BOA,Google Play (Simulated),positive,0.2716,Transaction Performance
+535,Where is the fingerprint login? Typing my long password every time is annoying.,2,2026-01-19,CBE,Google Play (Simulated),negative,-0.4019,Account Access & Security
+536,"Great user interface, clean design, but login error pops up frequently.",4,2026-02-16,CBE,Google Play (Simulated),neutral,-0.0387,Account Access & Security
+537,Where is the fingerprint login? Typing my long password every time is annoying.,2,2026-01-09,CBE,Google Play (Simulated),negative,-0.4019,Account Access & Security
+538,Please add biometric authentication like fingerprint sign in.,3,2026-03-02,Dashen,Google Play (Simulated),positive,0.5859,Account Access & Security
+539,"Very poor customer support, my transaction is pending and chat bot is useless.",1,2026-03-13,BOA,Google Play (Simulated),negative,-0.4989,Transaction Performance
+540,BOA Live is beautiful but it crashes constantly after the latest update.,3,2026-01-03,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+541,I did not receive the OTP token. Stuck on login screen for hours.,1,2026-02-21,BOA,Google Play (Simulated),negative,-0.25,Account Access & Security
+542,"Great user interface, clean design, but login error pops up frequently.",4,2026-04-14,CBE,Google Play (Simulated),neutral,-0.0387,Account Access & Security
+543,"Very poor customer support, my transaction is pending and chat bot is useless.",1,2026-03-31,BOA,Google Play (Simulated),negative,-0.4989,Transaction Performance
+544,"Very poor customer support, my transaction is pending and chat bot is useless.",1,2026-04-19,BOA,Google Play (Simulated),negative,-0.4989,Transaction Performance
+545,BOA Live is beautiful but it crashes constantly after the latest update.,2,2026-02-25,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+546,I did not receive the OTP token. Stuck on login screen for hours.,2,2026-01-21,BOA,Google Play (Simulated),negative,-0.25,Account Access & Security
+547,Very slow transfer loading times today. App kept crashing during payments.,1,2026-03-21,CBE,Google Play (Simulated),neutral,0.0,Transaction Performance
+548,"Awesome banking experience, fast navigation and secure transfers.",5,2026-04-16,Dashen,Google Play (Simulated),positive,0.7579,Transaction Performance
+549,Smooth transfers and quick notifications. Highly recommended.,5,2026-04-25,BOA,Google Play (Simulated),positive,0.2716,Transaction Performance
+550,Failed transfers. System says network error but my balance was deducted.,2,2026-03-28,Dashen,Google Play (Simulated),negative,-0.4588,Transaction Performance
+551,"Great user interface, clean design, but login error pops up frequently.",2,2026-04-25,CBE,Google Play (Simulated),neutral,-0.0387,Account Access & Security
+552,Please add biometric authentication like fingerprint sign in.,2,2026-04-15,Dashen,Google Play (Simulated),positive,0.5859,Account Access & Security
+553,"Very poor customer support, my transaction is pending and chat bot is useless.",2,2026-01-29,BOA,Google Play (Simulated),negative,-0.4989,Transaction Performance
+554,Please add biometric authentication like fingerprint sign in.,3,2026-01-11,Dashen,Google Play (Simulated),positive,0.5859,Account Access & Security
+555,BOA Live is beautiful but it crashes constantly after the latest update.,3,2026-04-20,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+556,"Awesome banking experience, fast navigation and secure transfers.",4,2026-04-26,Dashen,Google Play (Simulated),positive,0.7579,Transaction Performance
+557,Please add biometric authentication like fingerprint sign in.,4,2026-01-24,Dashen,Google Play (Simulated),positive,0.5859,Account Access & Security
+558,"Excellent app! Transfer speed is fantastic, love the security updates.",5,2026-01-27,CBE,Google Play (Simulated),positive,0.9348,Transaction Performance
+559,Smooth transfers and quick notifications. Highly recommended.,5,2026-01-23,BOA,Google Play (Simulated),positive,0.2716,Transaction Performance
+560,Please add biometric authentication like fingerprint sign in.,4,2026-02-02,Dashen,Google Play (Simulated),positive,0.5859,Account Access & Security
+561,"Very poor customer support, my transaction is pending and chat bot is useless.",1,2026-04-14,BOA,Google Play (Simulated),negative,-0.4989,Transaction Performance
+562,BOA Live is beautiful but it crashes constantly after the latest update.,3,2026-01-30,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+563,Failed transfers. System says network error but my balance was deducted.,1,2026-01-12,Dashen,Google Play (Simulated),negative,-0.4588,Transaction Performance
+564,I did not receive the OTP token. Stuck on login screen for hours.,2,2026-04-09,BOA,Google Play (Simulated),negative,-0.25,Account Access & Security
+565,"Excellent app! Transfer speed is fantastic, love the security updates.",5,2026-05-09,CBE,Google Play (Simulated),positive,0.9348,Transaction Performance
+566,I did not receive the OTP token. Stuck on login screen for hours.,1,2026-04-09,BOA,Google Play (Simulated),negative,-0.25,Account Access & Security
+567,Smooth transfers and quick notifications. Highly recommended.,5,2026-02-17,BOA,Google Play (Simulated),positive,0.2716,Transaction Performance
+568,I did not receive the OTP token. Stuck on login screen for hours.,1,2026-04-21,BOA,Google Play (Simulated),negative,-0.25,Account Access & Security
+569,"Great user interface, clean design, but login error pops up frequently.",3,2026-03-29,CBE,Google Play (Simulated),neutral,-0.0387,Account Access & Security
+570,"Excellent app! Transfer speed is fantastic, love the security updates.",5,2026-01-31,CBE,Google Play (Simulated),positive,0.9348,Transaction Performance
+571,Smooth transfers and quick notifications. Highly recommended.,5,2026-03-25,BOA,Google Play (Simulated),positive,0.2716,Transaction Performance
+572,"Awesome banking experience, fast navigation and secure transfers.",4,2026-04-15,Dashen,Google Play (Simulated),positive,0.7579,Transaction Performance
+573,Where is the fingerprint login? Typing my long password every time is annoying.,2,2026-01-25,CBE,Google Play (Simulated),negative,-0.4019,Account Access & Security
+574,Please add biometric authentication like fingerprint sign in.,2,2026-03-20,Dashen,Google Play (Simulated),positive,0.5859,Account Access & Security
+575,BOA Live is beautiful but it crashes constantly after the latest update.,2,2026-05-03,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+576,"Excellent app! Transfer speed is fantastic, love the security updates.",4,2026-02-16,CBE,Google Play (Simulated),positive,0.9348,Transaction Performance
+577,Smooth transfers and quick notifications. Highly recommended.,5,2026-03-03,BOA,Google Play (Simulated),positive,0.2716,Transaction Performance
+578,"Great user interface, clean design, but login error pops up frequently.",3,2026-01-02,CBE,Google Play (Simulated),neutral,-0.0387,Account Access & Security
+579,Please add biometric authentication like fingerprint sign in.,4,2026-01-27,Dashen,Google Play (Simulated),positive,0.5859,Account Access & Security
+580,"Awesome banking experience, fast navigation and secure transfers.",5,2026-02-23,Dashen,Google Play (Simulated),positive,0.7579,Transaction Performance
+581,Smooth transfers and quick notifications. Highly recommended.,5,2026-01-11,BOA,Google Play (Simulated),positive,0.2716,Transaction Performance
+582,"Excellent app! Transfer speed is fantastic, love the security updates.",4,2026-04-28,CBE,Google Play (Simulated),positive,0.9348,Transaction Performance
+583,"Great user interface, clean design, but login error pops up frequently.",2,2026-03-21,CBE,Google Play (Simulated),neutral,-0.0387,Account Access & Security
+584,I did not receive the OTP token. Stuck on login screen for hours.,2,2026-03-21,BOA,Google Play (Simulated),negative,-0.25,Account Access & Security
+585,"Amole app has a great interface, very clean and navigable navigation.",5,2026-04-07,Dashen,Google Play (Simulated),positive,0.796,UI & User Experience
+586,"Very poor customer support, my transaction is pending and chat bot is useless.",1,2026-05-05,BOA,Google Play (Simulated),negative,-0.4989,Transaction Performance
+587,Please add biometric authentication like fingerprint sign in.,4,2026-01-22,Dashen,Google Play (Simulated),positive,0.5859,Account Access & Security
+588,"Amole app has a great interface, very clean and navigable navigation.",3,2026-03-06,Dashen,Google Play (Simulated),positive,0.796,UI & User Experience
+589,"Amole app has a great interface, very clean and navigable navigation.",3,2026-01-20,Dashen,Google Play (Simulated),positive,0.796,UI & User Experience
+590,"Amole app has a great interface, very clean and navigable navigation.",4,2026-05-07,Dashen,Google Play (Simulated),positive,0.796,UI & User Experience
+591,"Awesome banking experience, fast navigation and secure transfers.",5,2026-01-20,Dashen,Google Play (Simulated),positive,0.7579,Transaction Performance
+592,"Great user interface, clean design, but login error pops up frequently.",2,2026-03-31,CBE,Google Play (Simulated),neutral,-0.0387,Account Access & Security
+593,"Awesome banking experience, fast navigation and secure transfers.",4,2026-05-02,Dashen,Google Play (Simulated),positive,0.7579,Transaction Performance
+594,Where is the fingerprint login? Typing my long password every time is annoying.,1,2026-01-01,CBE,Google Play (Simulated),negative,-0.4019,Account Access & Security
+595,Where is the fingerprint login? Typing my long password every time is annoying.,1,2026-04-30,CBE,Google Play (Simulated),negative,-0.4019,Account Access & Security
+596,Failed transfers. System says network error but my balance was deducted.,1,2026-02-17,Dashen,Google Play (Simulated),negative,-0.4588,Transaction Performance
+597,"Great user interface, clean design, but login error pops up frequently.",2,2026-04-01,CBE,Google Play (Simulated),neutral,-0.0387,Account Access & Security
+598,"Very poor customer support, my transaction is pending and chat bot is useless.",1,2026-01-27,BOA,Google Play (Simulated),negative,-0.4989,Transaction Performance
+599,"Amole app has a great interface, very clean and navigable navigation.",4,2026-03-07,Dashen,Google Play (Simulated),positive,0.796,UI & User Experience
+600,"Great user interface, clean design, but login error pops up frequently.",3,2026-02-07,CBE,Google Play (Simulated),neutral,-0.0387,Account Access & Security
+601,Very slow transfer loading times today. App kept crashing during payments.,1,2026-03-17,CBE,Google Play (Simulated),neutral,0.0,Transaction Performance
+602,Smooth transfers and quick notifications. Highly recommended.,4,2026-04-28,BOA,Google Play (Simulated),positive,0.2716,Transaction Performance
+603,Very slow transfer loading times today. App kept crashing during payments.,2,2026-03-16,CBE,Google Play (Simulated),neutral,0.0,Transaction Performance
+604,"Awesome banking experience, fast navigation and secure transfers.",4,2026-02-02,Dashen,Google Play (Simulated),positive,0.7579,Transaction Performance
+605,Very slow transfer loading times today. App kept crashing during payments.,2,2026-03-11,CBE,Google Play (Simulated),neutral,0.0,Transaction Performance
+606,Please add biometric authentication like fingerprint sign in.,4,2026-05-07,Dashen,Google Play (Simulated),positive,0.5859,Account Access & Security
+607,"Amole app has a great interface, very clean and navigable navigation.",3,2026-01-18,Dashen,Google Play (Simulated),positive,0.796,UI & User Experience
+608,"Awesome banking experience, fast navigation and secure transfers.",4,2026-03-23,Dashen,Google Play (Simulated),positive,0.7579,Transaction Performance
+609,Where is the fingerprint login? Typing my long password every time is annoying.,3,2026-03-18,CBE,Google Play (Simulated),negative,-0.4019,Account Access & Security
+610,"Excellent app! Transfer speed is fantastic, love the security updates.",5,2026-03-02,CBE,Google Play (Simulated),positive,0.9348,Transaction Performance
+611,I did not receive the OTP token. Stuck on login screen for hours.,2,2026-04-07,BOA,Google Play (Simulated),negative,-0.25,Account Access & Security
+612,Where is the fingerprint login? Typing my long password every time is annoying.,3,2026-03-14,CBE,Google Play (Simulated),negative,-0.4019,Account Access & Security
+613,Please add biometric authentication like fingerprint sign in.,4,2026-03-18,Dashen,Google Play (Simulated),positive,0.5859,Account Access & Security
+614,"Amole app has a great interface, very clean and navigable navigation.",5,2026-01-24,Dashen,Google Play (Simulated),positive,0.796,UI & User Experience
+615,"Very poor customer support, my transaction is pending and chat bot is useless.",1,2026-01-31,BOA,Google Play (Simulated),negative,-0.4989,Transaction Performance
+616,BOA Live is beautiful but it crashes constantly after the latest update.,3,2026-03-02,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+617,"Amole app has a great interface, very clean and navigable navigation.",5,2026-01-06,Dashen,Google Play (Simulated),positive,0.796,UI & User Experience
+618,I did not receive the OTP token. Stuck on login screen for hours.,2,2026-04-19,BOA,Google Play (Simulated),negative,-0.25,Account Access & Security
+619,"Very poor customer support, my transaction is pending and chat bot is useless.",1,2026-03-29,BOA,Google Play (Simulated),negative,-0.4989,Transaction Performance
+620,"Great user interface, clean design, but login error pops up frequently.",4,2026-04-24,CBE,Google Play (Simulated),neutral,-0.0387,Account Access & Security
+621,Where is the fingerprint login? Typing my long password every time is annoying.,2,2026-03-03,CBE,Google Play (Simulated),negative,-0.4019,Account Access & Security
+622,"Great user interface, clean design, but login error pops up frequently.",2,2026-02-14,CBE,Google Play (Simulated),neutral,-0.0387,Account Access & Security
+623,Please add biometric authentication like fingerprint sign in.,3,2026-04-18,Dashen,Google Play (Simulated),positive,0.5859,Account Access & Security
+624,"Great user interface, clean design, but login error pops up frequently.",4,2026-02-02,CBE,Google Play (Simulated),neutral,-0.0387,Account Access & Security
+625,I did not receive the OTP token. Stuck on login screen for hours.,1,2026-01-01,BOA,Google Play (Simulated),negative,-0.25,Account Access & Security
+626,Very slow transfer loading times today. App kept crashing during payments.,2,2026-04-09,CBE,Google Play (Simulated),neutral,0.0,Transaction Performance
+627,I did not receive the OTP token. Stuck on login screen for hours.,1,2026-03-07,BOA,Google Play (Simulated),negative,-0.25,Account Access & Security
+628,"Amole app has a great interface, very clean and navigable navigation.",5,2026-03-26,Dashen,Google Play (Simulated),positive,0.796,UI & User Experience
+629,"Excellent app! Transfer speed is fantastic, love the security updates.",4,2026-02-02,CBE,Google Play (Simulated),positive,0.9348,Transaction Performance
+630,Very slow transfer loading times today. App kept crashing during payments.,1,2026-04-12,CBE,Google Play (Simulated),neutral,0.0,Transaction Performance
+631,Please add biometric authentication like fingerprint sign in.,4,2026-01-12,Dashen,Google Play (Simulated),positive,0.5859,Account Access & Security
+632,"Very poor customer support, my transaction is pending and chat bot is useless.",2,2026-04-20,BOA,Google Play (Simulated),negative,-0.4989,Transaction Performance
+633,"Awesome banking experience, fast navigation and secure transfers.",5,2026-03-22,Dashen,Google Play (Simulated),positive,0.7579,Transaction Performance
+634,Smooth transfers and quick notifications. Highly recommended.,4,2026-04-14,BOA,Google Play (Simulated),positive,0.2716,Transaction Performance
+635,Failed transfers. System says network error but my balance was deducted.,1,2026-02-07,Dashen,Google Play (Simulated),negative,-0.4588,Transaction Performance
+636,Very slow transfer loading times today. App kept crashing during payments.,2,2026-01-25,CBE,Google Play (Simulated),neutral,0.0,Transaction Performance
+637,Failed transfers. System says network error but my balance was deducted.,2,2026-03-20,Dashen,Google Play (Simulated),negative,-0.4588,Transaction Performance
+638,Failed transfers. System says network error but my balance was deducted.,2,2026-02-05,Dashen,Google Play (Simulated),negative,-0.4588,Transaction Performance
+639,"Amole app has a great interface, very clean and navigable navigation.",3,2026-02-12,Dashen,Google Play (Simulated),positive,0.796,UI & User Experience
+640,"Very poor customer support, my transaction is pending and chat bot is useless.",1,2026-01-26,BOA,Google Play (Simulated),negative,-0.4989,Transaction Performance
+641,Where is the fingerprint login? Typing my long password every time is annoying.,3,2026-01-18,CBE,Google Play (Simulated),negative,-0.4019,Account Access & Security
+642,BOA Live is beautiful but it crashes constantly after the latest update.,1,2026-04-29,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+643,I did not receive the OTP token. Stuck on login screen for hours.,1,2026-04-13,BOA,Google Play (Simulated),negative,-0.25,Account Access & Security
+644,"Great user interface, clean design, but login error pops up frequently.",4,2026-01-28,CBE,Google Play (Simulated),neutral,-0.0387,Account Access & Security
+645,"Awesome banking experience, fast navigation and secure transfers.",5,2026-02-02,Dashen,Google Play (Simulated),positive,0.7579,Transaction Performance
+646,BOA Live is beautiful but it crashes constantly after the latest update.,3,2026-02-20,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+647,"Great user interface, clean design, but login error pops up frequently.",4,2026-04-16,CBE,Google Play (Simulated),neutral,-0.0387,Account Access & Security
+648,I did not receive the OTP token. Stuck on login screen for hours.,1,2026-01-15,BOA,Google Play (Simulated),negative,-0.25,Account Access & Security
+649,Smooth transfers and quick notifications. Highly recommended.,4,2026-05-05,BOA,Google Play (Simulated),positive,0.2716,Transaction Performance
+650,Smooth transfers and quick notifications. Highly recommended.,5,2026-02-13,BOA,Google Play (Simulated),positive,0.2716,Transaction Performance
+651,"Excellent app! Transfer speed is fantastic, love the security updates.",4,2026-01-30,CBE,Google Play (Simulated),positive,0.9348,Transaction Performance
+652,Very slow transfer loading times today. App kept crashing during payments.,1,2026-01-18,CBE,Google Play (Simulated),neutral,0.0,Transaction Performance
+653,BOA Live is beautiful but it crashes constantly after the latest update.,1,2026-02-22,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+654,Failed transfers. System says network error but my balance was deducted.,1,2026-04-06,Dashen,Google Play (Simulated),negative,-0.4588,Transaction Performance
+655,"Great user interface, clean design, but login error pops up frequently.",3,2026-03-15,CBE,Google Play (Simulated),neutral,-0.0387,Account Access & Security
+656,"Awesome banking experience, fast navigation and secure transfers.",5,2026-03-27,Dashen,Google Play (Simulated),positive,0.7579,Transaction Performance
+657,Very slow transfer loading times today. App kept crashing during payments.,2,2026-04-29,CBE,Google Play (Simulated),neutral,0.0,Transaction Performance
+658,"Great user interface, clean design, but login error pops up frequently.",3,2026-01-23,CBE,Google Play (Simulated),neutral,-0.0387,Account Access & Security
+659,BOA Live is beautiful but it crashes constantly after the latest update.,1,2026-04-14,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+660,Smooth transfers and quick notifications. Highly recommended.,5,2026-01-14,BOA,Google Play (Simulated),positive,0.2716,Transaction Performance
+661,Smooth transfers and quick notifications. Highly recommended.,4,2026-04-18,BOA,Google Play (Simulated),positive,0.2716,Transaction Performance
+662,Please add biometric authentication like fingerprint sign in.,2,2026-04-18,Dashen,Google Play (Simulated),positive,0.5859,Account Access & Security
+663,"Excellent app! Transfer speed is fantastic, love the security updates.",5,2026-01-27,CBE,Google Play (Simulated),positive,0.9348,Transaction Performance
+664,BOA Live is beautiful but it crashes constantly after the latest update.,2,2026-02-02,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+665,"Great user interface, clean design, but login error pops up frequently.",3,2026-01-02,CBE,Google Play (Simulated),neutral,-0.0387,Account Access & Security
+666,"Amole app has a great interface, very clean and navigable navigation.",5,2026-04-10,Dashen,Google Play (Simulated),positive,0.796,UI & User Experience
+667,Failed transfers. System says network error but my balance was deducted.,1,2026-03-22,Dashen,Google Play (Simulated),negative,-0.4588,Transaction Performance
+668,Please add biometric authentication like fingerprint sign in.,4,2026-03-15,Dashen,Google Play (Simulated),positive,0.5859,Account Access & Security
+669,Please add biometric authentication like fingerprint sign in.,4,2026-04-29,Dashen,Google Play (Simulated),positive,0.5859,Account Access & Security
+670,BOA Live is beautiful but it crashes constantly after the latest update.,1,2026-05-09,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+671,Smooth transfers and quick notifications. Highly recommended.,5,2026-02-04,BOA,Google Play (Simulated),positive,0.2716,Transaction Performance
+672,Very slow transfer loading times today. App kept crashing during payments.,2,2026-04-15,CBE,Google Play (Simulated),neutral,0.0,Transaction Performance
+673,"Awesome banking experience, fast navigation and secure transfers.",4,2026-04-18,Dashen,Google Play (Simulated),positive,0.7579,Transaction Performance
+674,Please add biometric authentication like fingerprint sign in.,2,2026-03-24,Dashen,Google Play (Simulated),positive,0.5859,Account Access & Security
+675,"Great user interface, clean design, but login error pops up frequently.",4,2026-03-21,CBE,Google Play (Simulated),neutral,-0.0387,Account Access & Security
+676,I did not receive the OTP token. Stuck on login screen for hours.,1,2026-05-11,BOA,Google Play (Simulated),negative,-0.25,Account Access & Security
+677,"Awesome banking experience, fast navigation and secure transfers.",4,2026-01-03,Dashen,Google Play (Simulated),positive,0.7579,Transaction Performance
+678,"Very poor customer support, my transaction is pending and chat bot is useless.",2,2026-04-24,BOA,Google Play (Simulated),negative,-0.4989,Transaction Performance
+679,"Very poor customer support, my transaction is pending and chat bot is useless.",2,2026-01-21,BOA,Google Play (Simulated),negative,-0.4989,Transaction Performance
+680,"Awesome banking experience, fast navigation and secure transfers.",5,2026-03-03,Dashen,Google Play (Simulated),positive,0.7579,Transaction Performance
+681,"Awesome banking experience, fast navigation and secure transfers.",5,2026-02-16,Dashen,Google Play (Simulated),positive,0.7579,Transaction Performance
+682,"Excellent app! Transfer speed is fantastic, love the security updates.",4,2026-02-12,CBE,Google Play (Simulated),positive,0.9348,Transaction Performance
+683,"Great user interface, clean design, but login error pops up frequently.",2,2026-01-24,CBE,Google Play (Simulated),neutral,-0.0387,Account Access & Security
+684,BOA Live is beautiful but it crashes constantly after the latest update.,3,2026-03-15,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+685,"Excellent app! Transfer speed is fantastic, love the security updates.",4,2026-01-26,CBE,Google Play (Simulated),positive,0.9348,Transaction Performance
+686,Please add biometric authentication like fingerprint sign in.,4,2026-02-12,Dashen,Google Play (Simulated),positive,0.5859,Account Access & Security
+687,Please add biometric authentication like fingerprint sign in.,4,2026-04-06,Dashen,Google Play (Simulated),positive,0.5859,Account Access & Security
+688,"Great user interface, clean design, but login error pops up frequently.",2,2026-01-17,CBE,Google Play (Simulated),neutral,-0.0387,Account Access & Security
+689,Please add biometric authentication like fingerprint sign in.,4,2026-02-27,Dashen,Google Play (Simulated),positive,0.5859,Account Access & Security
+690,BOA Live is beautiful but it crashes constantly after the latest update.,3,2026-05-02,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+691,BOA Live is beautiful but it crashes constantly after the latest update.,2,2026-02-08,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+692,Failed transfers. System says network error but my balance was deducted.,2,2026-04-25,Dashen,Google Play (Simulated),negative,-0.4588,Transaction Performance
+693,Where is the fingerprint login? Typing my long password every time is annoying.,3,2026-04-05,CBE,Google Play (Simulated),negative,-0.4019,Account Access & Security
+694,Smooth transfers and quick notifications. Highly recommended.,5,2026-02-07,BOA,Google Play (Simulated),positive,0.2716,Transaction Performance
+695,"Very poor customer support, my transaction is pending and chat bot is useless.",1,2026-02-08,BOA,Google Play (Simulated),negative,-0.4989,Transaction Performance
+696,I did not receive the OTP token. Stuck on login screen for hours.,1,2026-02-24,BOA,Google Play (Simulated),negative,-0.25,Account Access & Security
+697,Smooth transfers and quick notifications. Highly recommended.,5,2026-03-29,BOA,Google Play (Simulated),positive,0.2716,Transaction Performance
+698,BOA Live is beautiful but it crashes constantly after the latest update.,3,2026-01-27,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+699,"Excellent app! Transfer speed is fantastic, love the security updates.",5,2026-01-15,CBE,Google Play (Simulated),positive,0.9348,Transaction Performance
+700,BOA Live is beautiful but it crashes constantly after the latest update.,1,2026-02-11,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+701,"Excellent app! Transfer speed is fantastic, love the security updates.",5,2026-04-20,CBE,Google Play (Simulated),positive,0.9348,Transaction Performance
+702,I did not receive the OTP token. Stuck on login screen for hours.,1,2026-04-03,BOA,Google Play (Simulated),negative,-0.25,Account Access & Security
+703,Very slow transfer loading times today. App kept crashing during payments.,1,2026-02-05,CBE,Google Play (Simulated),neutral,0.0,Transaction Performance
+704,"Awesome banking experience, fast navigation and secure transfers.",5,2026-04-24,Dashen,Google Play (Simulated),positive,0.7579,Transaction Performance
+705,"Excellent app! Transfer speed is fantastic, love the security updates.",5,2026-03-28,CBE,Google Play (Simulated),positive,0.9348,Transaction Performance
+706,"Excellent app! Transfer speed is fantastic, love the security updates.",5,2026-03-31,CBE,Google Play (Simulated),positive,0.9348,Transaction Performance
+707,"Very poor customer support, my transaction is pending and chat bot is useless.",1,2026-03-01,BOA,Google Play (Simulated),negative,-0.4989,Transaction Performance
+708,BOA Live is beautiful but it crashes constantly after the latest update.,3,2026-04-26,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+709,Failed transfers. System says network error but my balance was deducted.,1,2026-03-08,Dashen,Google Play (Simulated),negative,-0.4588,Transaction Performance
+710,Please add biometric authentication like fingerprint sign in.,3,2026-03-21,Dashen,Google Play (Simulated),positive,0.5859,Account Access & Security
+711,Please add biometric authentication like fingerprint sign in.,3,2026-02-21,Dashen,Google Play (Simulated),positive,0.5859,Account Access & Security
+712,I did not receive the OTP token. Stuck on login screen for hours.,1,2026-01-28,BOA,Google Play (Simulated),negative,-0.25,Account Access & Security
+713,"Very poor customer support, my transaction is pending and chat bot is useless.",1,2026-04-05,BOA,Google Play (Simulated),negative,-0.4989,Transaction Performance
+714,"Great user interface, clean design, but login error pops up frequently.",3,2026-05-07,CBE,Google Play (Simulated),neutral,-0.0387,Account Access & Security
+715,"Great user interface, clean design, but login error pops up frequently.",3,2026-04-23,CBE,Google Play (Simulated),neutral,-0.0387,Account Access & Security
+716,Where is the fingerprint login? Typing my long password every time is annoying.,1,2026-03-11,CBE,Google Play (Simulated),negative,-0.4019,Account Access & Security
+717,"Great user interface, clean design, but login error pops up frequently.",4,2026-03-09,CBE,Google Play (Simulated),neutral,-0.0387,Account Access & Security
+718,"Great user interface, clean design, but login error pops up frequently.",2,2026-01-13,CBE,Google Play (Simulated),neutral,-0.0387,Account Access & Security
+719,"Excellent app! Transfer speed is fantastic, love the security updates.",5,2026-02-09,CBE,Google Play (Simulated),positive,0.9348,Transaction Performance
+720,Please add biometric authentication like fingerprint sign in.,4,2026-03-28,Dashen,Google Play (Simulated),positive,0.5859,Account Access & Security
+721,"Great user interface, clean design, but login error pops up frequently.",2,2026-01-25,CBE,Google Play (Simulated),neutral,-0.0387,Account Access & Security
+722,Failed transfers. System says network error but my balance was deducted.,2,2026-01-23,Dashen,Google Play (Simulated),negative,-0.4588,Transaction Performance
+723,Failed transfers. System says network error but my balance was deducted.,1,2026-03-10,Dashen,Google Play (Simulated),negative,-0.4588,Transaction Performance
+724,Failed transfers. System says network error but my balance was deducted.,1,2026-02-28,Dashen,Google Play (Simulated),negative,-0.4588,Transaction Performance
+725,Smooth transfers and quick notifications. Highly recommended.,5,2026-02-27,BOA,Google Play (Simulated),positive,0.2716,Transaction Performance
+726,"Very poor customer support, my transaction is pending and chat bot is useless.",1,2026-01-15,BOA,Google Play (Simulated),negative,-0.4989,Transaction Performance
+727,"Awesome banking experience, fast navigation and secure transfers.",5,2026-02-03,Dashen,Google Play (Simulated),positive,0.7579,Transaction Performance
+728,Very slow transfer loading times today. App kept crashing during payments.,1,2026-02-02,CBE,Google Play (Simulated),neutral,0.0,Transaction Performance
+729,"Awesome banking experience, fast navigation and secure transfers.",5,2026-03-07,Dashen,Google Play (Simulated),positive,0.7579,Transaction Performance
+730,"Amole app has a great interface, very clean and navigable navigation.",5,2026-04-20,Dashen,Google Play (Simulated),positive,0.796,UI & User Experience
+731,"Great user interface, clean design, but login error pops up frequently.",2,2026-01-10,CBE,Google Play (Simulated),neutral,-0.0387,Account Access & Security
+732,Very slow transfer loading times today. App kept crashing during payments.,1,2026-04-08,CBE,Google Play (Simulated),neutral,0.0,Transaction Performance
+733,Where is the fingerprint login? Typing my long password every time is annoying.,3,2026-01-16,CBE,Google Play (Simulated),negative,-0.4019,Account Access & Security
+734,Very slow transfer loading times today. App kept crashing during payments.,2,2026-01-23,CBE,Google Play (Simulated),neutral,0.0,Transaction Performance
+735,Smooth transfers and quick notifications. Highly recommended.,5,2026-03-22,BOA,Google Play (Simulated),positive,0.2716,Transaction Performance
+736,Where is the fingerprint login? Typing my long password every time is annoying.,1,2026-01-19,CBE,Google Play (Simulated),negative,-0.4019,Account Access & Security
+737,"Great user interface, clean design, but login error pops up frequently.",2,2026-05-07,CBE,Google Play (Simulated),neutral,-0.0387,Account Access & Security
+738,"Awesome banking experience, fast navigation and secure transfers.",5,2026-03-08,Dashen,Google Play (Simulated),positive,0.7579,Transaction Performance
+739,Smooth transfers and quick notifications. Highly recommended.,5,2026-01-26,BOA,Google Play (Simulated),positive,0.2716,Transaction Performance
+740,Very slow transfer loading times today. App kept crashing during payments.,2,2026-04-17,CBE,Google Play (Simulated),neutral,0.0,Transaction Performance
+741,Please add biometric authentication like fingerprint sign in.,4,2026-02-04,Dashen,Google Play (Simulated),positive,0.5859,Account Access & Security
+742,BOA Live is beautiful but it crashes constantly after the latest update.,3,2026-03-30,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+743,"Excellent app! Transfer speed is fantastic, love the security updates.",5,2026-03-28,CBE,Google Play (Simulated),positive,0.9348,Transaction Performance
+744,"Very poor customer support, my transaction is pending and chat bot is useless.",1,2026-01-22,BOA,Google Play (Simulated),negative,-0.4989,Transaction Performance
+745,Please add biometric authentication like fingerprint sign in.,2,2026-01-06,Dashen,Google Play (Simulated),positive,0.5859,Account Access & Security
+746,Failed transfers. System says network error but my balance was deducted.,1,2026-04-20,Dashen,Google Play (Simulated),negative,-0.4588,Transaction Performance
+747,Failed transfers. System says network error but my balance was deducted.,1,2026-03-11,Dashen,Google Play (Simulated),negative,-0.4588,Transaction Performance
+748,Failed transfers. System says network error but my balance was deducted.,1,2026-04-25,Dashen,Google Play (Simulated),negative,-0.4588,Transaction Performance
+749,Very slow transfer loading times today. App kept crashing during payments.,1,2026-04-25,CBE,Google Play (Simulated),neutral,0.0,Transaction Performance
+750,BOA Live is beautiful but it crashes constantly after the latest update.,2,2026-04-05,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+751,"Excellent app! Transfer speed is fantastic, love the security updates.",5,2026-04-15,CBE,Google Play (Simulated),positive,0.9348,Transaction Performance
+752,"Great user interface, clean design, but login error pops up frequently.",4,2026-02-07,CBE,Google Play (Simulated),neutral,-0.0387,Account Access & Security
+753,I did not receive the OTP token. Stuck on login screen for hours.,1,2026-02-09,BOA,Google Play (Simulated),negative,-0.25,Account Access & Security
+754,Please add biometric authentication like fingerprint sign in.,4,2026-01-26,Dashen,Google Play (Simulated),positive,0.5859,Account Access & Security
+755,"Awesome banking experience, fast navigation and secure transfers.",4,2026-02-19,Dashen,Google Play (Simulated),positive,0.7579,Transaction Performance
+756,"Great user interface, clean design, but login error pops up frequently.",3,2026-02-18,CBE,Google Play (Simulated),neutral,-0.0387,Account Access & Security
+757,"Awesome banking experience, fast navigation and secure transfers.",4,2026-04-20,Dashen,Google Play (Simulated),positive,0.7579,Transaction Performance
+758,"Amole app has a great interface, very clean and navigable navigation.",5,2026-02-07,Dashen,Google Play (Simulated),positive,0.796,UI & User Experience
+759,"Awesome banking experience, fast navigation and secure transfers.",4,2026-01-20,Dashen,Google Play (Simulated),positive,0.7579,Transaction Performance
+760,Where is the fingerprint login? Typing my long password every time is annoying.,2,2026-04-21,CBE,Google Play (Simulated),negative,-0.4019,Account Access & Security
+761,Where is the fingerprint login? Typing my long password every time is annoying.,3,2026-01-07,CBE,Google Play (Simulated),negative,-0.4019,Account Access & Security
+762,BOA Live is beautiful but it crashes constantly after the latest update.,2,2026-03-10,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+763,Failed transfers. System says network error but my balance was deducted.,2,2026-02-28,Dashen,Google Play (Simulated),negative,-0.4588,Transaction Performance
+764,"Great user interface, clean design, but login error pops up frequently.",2,2026-01-14,CBE,Google Play (Simulated),neutral,-0.0387,Account Access & Security
+765,Please add biometric authentication like fingerprint sign in.,2,2026-02-25,Dashen,Google Play (Simulated),positive,0.5859,Account Access & Security
+766,"Awesome banking experience, fast navigation and secure transfers.",5,2026-02-01,Dashen,Google Play (Simulated),positive,0.7579,Transaction Performance
+767,"Excellent app! Transfer speed is fantastic, love the security updates.",4,2026-01-09,CBE,Google Play (Simulated),positive,0.9348,Transaction Performance
+768,"Great user interface, clean design, but login error pops up frequently.",4,2026-01-15,CBE,Google Play (Simulated),neutral,-0.0387,Account Access & Security
+769,I did not receive the OTP token. Stuck on login screen for hours.,1,2026-02-22,BOA,Google Play (Simulated),negative,-0.25,Account Access & Security
+770,"Amole app has a great interface, very clean and navigable navigation.",4,2026-01-14,Dashen,Google Play (Simulated),positive,0.796,UI & User Experience
+771,Very slow transfer loading times today. App kept crashing during payments.,1,2026-03-31,CBE,Google Play (Simulated),neutral,0.0,Transaction Performance
+772,Failed transfers. System says network error but my balance was deducted.,1,2026-04-28,Dashen,Google Play (Simulated),negative,-0.4588,Transaction Performance
+773,Please add biometric authentication like fingerprint sign in.,4,2026-03-11,Dashen,Google Play (Simulated),positive,0.5859,Account Access & Security
+774,"Amole app has a great interface, very clean and navigable navigation.",5,2026-01-12,Dashen,Google Play (Simulated),positive,0.796,UI & User Experience
+775,"Awesome banking experience, fast navigation and secure transfers.",5,2026-02-23,Dashen,Google Play (Simulated),positive,0.7579,Transaction Performance
+776,I did not receive the OTP token. Stuck on login screen for hours.,1,2026-02-19,BOA,Google Play (Simulated),negative,-0.25,Account Access & Security
+777,"Very poor customer support, my transaction is pending and chat bot is useless.",1,2026-05-05,BOA,Google Play (Simulated),negative,-0.4989,Transaction Performance
+778,I did not receive the OTP token. Stuck on login screen for hours.,1,2026-03-16,BOA,Google Play (Simulated),negative,-0.25,Account Access & Security
+779,BOA Live is beautiful but it crashes constantly after the latest update.,2,2026-03-25,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+780,Please add biometric authentication like fingerprint sign in.,3,2026-01-12,Dashen,Google Play (Simulated),positive,0.5859,Account Access & Security
+781,Where is the fingerprint login? Typing my long password every time is annoying.,3,2026-04-19,CBE,Google Play (Simulated),negative,-0.4019,Account Access & Security
+782,Please add biometric authentication like fingerprint sign in.,3,2026-03-27,Dashen,Google Play (Simulated),positive,0.5859,Account Access & Security
+783,"Awesome banking experience, fast navigation and secure transfers.",5,2026-04-02,Dashen,Google Play (Simulated),positive,0.7579,Transaction Performance
+784,BOA Live is beautiful but it crashes constantly after the latest update.,1,2026-04-19,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+785,Please add biometric authentication like fingerprint sign in.,4,2026-01-08,Dashen,Google Play (Simulated),positive,0.5859,Account Access & Security
+786,I did not receive the OTP token. Stuck on login screen for hours.,2,2026-03-24,BOA,Google Play (Simulated),negative,-0.25,Account Access & Security
+787,"Awesome banking experience, fast navigation and secure transfers.",4,2026-03-10,Dashen,Google Play (Simulated),positive,0.7579,Transaction Performance
+788,Failed transfers. System says network error but my balance was deducted.,1,2026-05-06,Dashen,Google Play (Simulated),negative,-0.4588,Transaction Performance
+789,Failed transfers. System says network error but my balance was deducted.,2,2026-01-24,Dashen,Google Play (Simulated),negative,-0.4588,Transaction Performance
+790,"Awesome banking experience, fast navigation and secure transfers.",5,2026-01-27,Dashen,Google Play (Simulated),positive,0.7579,Transaction Performance
+791,Smooth transfers and quick notifications. Highly recommended.,5,2026-01-13,BOA,Google Play (Simulated),positive,0.2716,Transaction Performance
+792,Failed transfers. System says network error but my balance was deducted.,2,2026-03-05,Dashen,Google Play (Simulated),negative,-0.4588,Transaction Performance
+793,I did not receive the OTP token. Stuck on login screen for hours.,2,2026-01-08,BOA,Google Play (Simulated),negative,-0.25,Account Access & Security
+794,Very slow transfer loading times today. App kept crashing during payments.,2,2026-03-23,CBE,Google Play (Simulated),neutral,0.0,Transaction Performance
+795,"Awesome banking experience, fast navigation and secure transfers.",4,2026-04-05,Dashen,Google Play (Simulated),positive,0.7579,Transaction Performance
+796,Very slow transfer loading times today. App kept crashing during payments.,1,2026-04-24,CBE,Google Play (Simulated),neutral,0.0,Transaction Performance
+797,Please add biometric authentication like fingerprint sign in.,3,2026-03-20,Dashen,Google Play (Simulated),positive,0.5859,Account Access & Security
+798,BOA Live is beautiful but it crashes constantly after the latest update.,2,2026-02-15,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+799,"Awesome banking experience, fast navigation and secure transfers.",5,2026-01-27,Dashen,Google Play (Simulated),positive,0.7579,Transaction Performance
+800,BOA Live is beautiful but it crashes constantly after the latest update.,3,2026-02-04,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+801,I did not receive the OTP token. Stuck on login screen for hours.,1,2026-01-30,BOA,Google Play (Simulated),negative,-0.25,Account Access & Security
+802,Smooth transfers and quick notifications. Highly recommended.,5,2026-05-03,BOA,Google Play (Simulated),positive,0.2716,Transaction Performance
+803,Please add biometric authentication like fingerprint sign in.,3,2026-01-29,Dashen,Google Play (Simulated),positive,0.5859,Account Access & Security
+804,Please add biometric authentication like fingerprint sign in.,3,2026-02-03,Dashen,Google Play (Simulated),positive,0.5859,Account Access & Security
+805,"Great user interface, clean design, but login error pops up frequently.",4,2026-01-11,CBE,Google Play (Simulated),neutral,-0.0387,Account Access & Security
+806,Very slow transfer loading times today. App kept crashing during payments.,2,2026-01-23,CBE,Google Play (Simulated),neutral,0.0,Transaction Performance
+807,Smooth transfers and quick notifications. Highly recommended.,5,2026-03-21,BOA,Google Play (Simulated),positive,0.2716,Transaction Performance
+808,"Very poor customer support, my transaction is pending and chat bot is useless.",2,2026-01-15,BOA,Google Play (Simulated),negative,-0.4989,Transaction Performance
+809,BOA Live is beautiful but it crashes constantly after the latest update.,1,2026-03-13,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+810,Very slow transfer loading times today. App kept crashing during payments.,2,2026-04-07,CBE,Google Play (Simulated),neutral,0.0,Transaction Performance
+811,"Awesome banking experience, fast navigation and secure transfers.",5,2026-03-20,Dashen,Google Play (Simulated),positive,0.7579,Transaction Performance
+812,"Very poor customer support, my transaction is pending and chat bot is useless.",2,2026-03-29,BOA,Google Play (Simulated),negative,-0.4989,Transaction Performance
+813,BOA Live is beautiful but it crashes constantly after the latest update.,1,2026-04-09,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+814,Failed transfers. System says network error but my balance was deducted.,2,2026-04-30,Dashen,Google Play (Simulated),negative,-0.4588,Transaction Performance
+815,I did not receive the OTP token. Stuck on login screen for hours.,1,2026-02-20,BOA,Google Play (Simulated),negative,-0.25,Account Access & Security
+816,"Excellent app! Transfer speed is fantastic, love the security updates.",5,2026-04-28,CBE,Google Play (Simulated),positive,0.9348,Transaction Performance
+817,Smooth transfers and quick notifications. Highly recommended.,5,2026-03-15,BOA,Google Play (Simulated),positive,0.2716,Transaction Performance
+818,"Very poor customer support, my transaction is pending and chat bot is useless.",2,2026-01-10,BOA,Google Play (Simulated),negative,-0.4989,Transaction Performance
+819,Please add biometric authentication like fingerprint sign in.,3,2026-03-27,Dashen,Google Play (Simulated),positive,0.5859,Account Access & Security
+820,"Amole app has a great interface, very clean and navigable navigation.",3,2026-03-10,Dashen,Google Play (Simulated),positive,0.796,UI & User Experience
+821,"Amole app has a great interface, very clean and navigable navigation.",3,2026-02-06,Dashen,Google Play (Simulated),positive,0.796,UI & User Experience
+822,Please add biometric authentication like fingerprint sign in.,4,2026-01-05,Dashen,Google Play (Simulated),positive,0.5859,Account Access & Security
+823,Smooth transfers and quick notifications. Highly recommended.,5,2026-04-17,BOA,Google Play (Simulated),positive,0.2716,Transaction Performance
+824,Smooth transfers and quick notifications. Highly recommended.,5,2026-01-08,BOA,Google Play (Simulated),positive,0.2716,Transaction Performance
+825,Smooth transfers and quick notifications. Highly recommended.,5,2026-02-10,BOA,Google Play (Simulated),positive,0.2716,Transaction Performance
+826,"Very poor customer support, my transaction is pending and chat bot is useless.",2,2026-03-01,BOA,Google Play (Simulated),negative,-0.4989,Transaction Performance
+827,"Awesome banking experience, fast navigation and secure transfers.",4,2026-01-08,Dashen,Google Play (Simulated),positive,0.7579,Transaction Performance
+828,Please add biometric authentication like fingerprint sign in.,2,2026-01-22,Dashen,Google Play (Simulated),positive,0.5859,Account Access & Security
+829,Very slow transfer loading times today. App kept crashing during payments.,1,2026-04-26,CBE,Google Play (Simulated),neutral,0.0,Transaction Performance
+830,"Excellent app! Transfer speed is fantastic, love the security updates.",4,2026-04-06,CBE,Google Play (Simulated),positive,0.9348,Transaction Performance
+831,"Excellent app! Transfer speed is fantastic, love the security updates.",5,2026-05-04,CBE,Google Play (Simulated),positive,0.9348,Transaction Performance
+832,Failed transfers. System says network error but my balance was deducted.,2,2026-05-02,Dashen,Google Play (Simulated),negative,-0.4588,Transaction Performance
+833,Failed transfers. System says network error but my balance was deducted.,1,2026-03-02,Dashen,Google Play (Simulated),negative,-0.4588,Transaction Performance
+834,"Amole app has a great interface, very clean and navigable navigation.",4,2026-03-08,Dashen,Google Play (Simulated),positive,0.796,UI & User Experience
+835,BOA Live is beautiful but it crashes constantly after the latest update.,3,2026-04-05,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+836,"Very poor customer support, my transaction is pending and chat bot is useless.",2,2026-03-04,BOA,Google Play (Simulated),negative,-0.4989,Transaction Performance
+837,Smooth transfers and quick notifications. Highly recommended.,5,2026-01-30,BOA,Google Play (Simulated),positive,0.2716,Transaction Performance
+838,"Excellent app! Transfer speed is fantastic, love the security updates.",5,2026-01-28,CBE,Google Play (Simulated),positive,0.9348,Transaction Performance
+839,Smooth transfers and quick notifications. Highly recommended.,4,2026-03-22,BOA,Google Play (Simulated),positive,0.2716,Transaction Performance
+840,Very slow transfer loading times today. App kept crashing during payments.,2,2026-01-31,CBE,Google Play (Simulated),neutral,0.0,Transaction Performance
+841,"Awesome banking experience, fast navigation and secure transfers.",5,2026-03-19,Dashen,Google Play (Simulated),positive,0.7579,Transaction Performance
+842,Please add biometric authentication like fingerprint sign in.,3,2026-01-28,Dashen,Google Play (Simulated),positive,0.5859,Account Access & Security
+843,Please add biometric authentication like fingerprint sign in.,4,2026-04-07,Dashen,Google Play (Simulated),positive,0.5859,Account Access & Security
+844,Very slow transfer loading times today. App kept crashing during payments.,1,2026-02-09,CBE,Google Play (Simulated),neutral,0.0,Transaction Performance
+845,BOA Live is beautiful but it crashes constantly after the latest update.,1,2026-04-14,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+846,Where is the fingerprint login? Typing my long password every time is annoying.,1,2026-01-23,CBE,Google Play (Simulated),negative,-0.4019,Account Access & Security
+847,Very slow transfer loading times today. App kept crashing during payments.,2,2026-05-05,CBE,Google Play (Simulated),neutral,0.0,Transaction Performance
+848,I did not receive the OTP token. Stuck on login screen for hours.,1,2026-04-11,BOA,Google Play (Simulated),negative,-0.25,Account Access & Security
+849,Very slow transfer loading times today. App kept crashing during payments.,1,2026-02-04,CBE,Google Play (Simulated),neutral,0.0,Transaction Performance
+850,Where is the fingerprint login? Typing my long password every time is annoying.,2,2026-01-14,CBE,Google Play (Simulated),negative,-0.4019,Account Access & Security
+851,I did not receive the OTP token. Stuck on login screen for hours.,1,2026-02-16,BOA,Google Play (Simulated),negative,-0.25,Account Access & Security
+852,"Excellent app! Transfer speed is fantastic, love the security updates.",5,2026-02-11,CBE,Google Play (Simulated),positive,0.9348,Transaction Performance
+853,I did not receive the OTP token. Stuck on login screen for hours.,2,2026-03-24,BOA,Google Play (Simulated),negative,-0.25,Account Access & Security
+854,"Amole app has a great interface, very clean and navigable navigation.",3,2026-04-13,Dashen,Google Play (Simulated),positive,0.796,UI & User Experience
+855,"Excellent app! Transfer speed is fantastic, love the security updates.",5,2026-04-11,CBE,Google Play (Simulated),positive,0.9348,Transaction Performance
+856,"Excellent app! Transfer speed is fantastic, love the security updates.",4,2026-01-10,CBE,Google Play (Simulated),positive,0.9348,Transaction Performance
+857,Failed transfers. System says network error but my balance was deducted.,2,2026-04-17,Dashen,Google Play (Simulated),negative,-0.4588,Transaction Performance
+858,BOA Live is beautiful but it crashes constantly after the latest update.,1,2026-01-14,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+859,"Awesome banking experience, fast navigation and secure transfers.",5,2026-03-31,Dashen,Google Play (Simulated),positive,0.7579,Transaction Performance
+860,I did not receive the OTP token. Stuck on login screen for hours.,1,2026-01-08,BOA,Google Play (Simulated),negative,-0.25,Account Access & Security
+861,Please add biometric authentication like fingerprint sign in.,2,2026-02-17,Dashen,Google Play (Simulated),positive,0.5859,Account Access & Security
+862,BOA Live is beautiful but it crashes constantly after the latest update.,2,2026-04-25,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+863,Very slow transfer loading times today. App kept crashing during payments.,2,2026-04-19,CBE,Google Play (Simulated),neutral,0.0,Transaction Performance
+864,"Great user interface, clean design, but login error pops up frequently.",2,2026-01-01,CBE,Google Play (Simulated),neutral,-0.0387,Account Access & Security
+865,Very slow transfer loading times today. App kept crashing during payments.,2,2026-03-15,CBE,Google Play (Simulated),neutral,0.0,Transaction Performance
+866,"Amole app has a great interface, very clean and navigable navigation.",3,2026-02-15,Dashen,Google Play (Simulated),positive,0.796,UI & User Experience
+867,"Excellent app! Transfer speed is fantastic, love the security updates.",4,2026-01-29,CBE,Google Play (Simulated),positive,0.9348,Transaction Performance
+868,"Excellent app! Transfer speed is fantastic, love the security updates.",4,2026-03-27,CBE,Google Play (Simulated),positive,0.9348,Transaction Performance
+869,"Excellent app! Transfer speed is fantastic, love the security updates.",5,2026-02-12,CBE,Google Play (Simulated),positive,0.9348,Transaction Performance
+870,"Amole app has a great interface, very clean and navigable navigation.",5,2026-04-21,Dashen,Google Play (Simulated),positive,0.796,UI & User Experience
+871,Smooth transfers and quick notifications. Highly recommended.,5,2026-03-17,BOA,Google Play (Simulated),positive,0.2716,Transaction Performance
+872,"Excellent app! Transfer speed is fantastic, love the security updates.",5,2026-04-06,CBE,Google Play (Simulated),positive,0.9348,Transaction Performance
+873,Please add biometric authentication like fingerprint sign in.,3,2026-02-03,Dashen,Google Play (Simulated),positive,0.5859,Account Access & Security
+874,Failed transfers. System says network error but my balance was deducted.,1,2026-03-06,Dashen,Google Play (Simulated),negative,-0.4588,Transaction Performance
+875,BOA Live is beautiful but it crashes constantly after the latest update.,1,2026-04-19,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+876,Very slow transfer loading times today. App kept crashing during payments.,2,2026-02-20,CBE,Google Play (Simulated),neutral,0.0,Transaction Performance
+877,Where is the fingerprint login? Typing my long password every time is annoying.,2,2026-02-28,CBE,Google Play (Simulated),negative,-0.4019,Account Access & Security
+878,Where is the fingerprint login? Typing my long password every time is annoying.,2,2026-01-22,CBE,Google Play (Simulated),negative,-0.4019,Account Access & Security
+879,"Very poor customer support, my transaction is pending and chat bot is useless.",1,2026-03-13,BOA,Google Play (Simulated),negative,-0.4989,Transaction Performance
+880,Very slow transfer loading times today. App kept crashing during payments.,1,2026-03-12,CBE,Google Play (Simulated),neutral,0.0,Transaction Performance
+881,Failed transfers. System says network error but my balance was deducted.,2,2026-01-08,Dashen,Google Play (Simulated),negative,-0.4588,Transaction Performance
+882,I did not receive the OTP token. Stuck on login screen for hours.,1,2026-03-24,BOA,Google Play (Simulated),negative,-0.25,Account Access & Security
+883,"Amole app has a great interface, very clean and navigable navigation.",4,2026-03-14,Dashen,Google Play (Simulated),positive,0.796,UI & User Experience
+884,Where is the fingerprint login? Typing my long password every time is annoying.,2,2026-05-07,CBE,Google Play (Simulated),negative,-0.4019,Account Access & Security
+885,Smooth transfers and quick notifications. Highly recommended.,5,2026-02-21,BOA,Google Play (Simulated),positive,0.2716,Transaction Performance
+886,Please add biometric authentication like fingerprint sign in.,4,2026-01-14,Dashen,Google Play (Simulated),positive,0.5859,Account Access & Security
+887,"Great user interface, clean design, but login error pops up frequently.",2,2026-04-08,CBE,Google Play (Simulated),neutral,-0.0387,Account Access & Security
+888,Smooth transfers and quick notifications. Highly recommended.,4,2026-03-31,BOA,Google Play (Simulated),positive,0.2716,Transaction Performance
+889,BOA Live is beautiful but it crashes constantly after the latest update.,3,2026-01-08,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+890,BOA Live is beautiful but it crashes constantly after the latest update.,2,2026-01-20,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+891,"Awesome banking experience, fast navigation and secure transfers.",5,2026-03-31,Dashen,Google Play (Simulated),positive,0.7579,Transaction Performance
+892,Where is the fingerprint login? Typing my long password every time is annoying.,1,2026-04-05,CBE,Google Play (Simulated),negative,-0.4019,Account Access & Security
+893,Where is the fingerprint login? Typing my long password every time is annoying.,1,2026-04-12,CBE,Google Play (Simulated),negative,-0.4019,Account Access & Security
+894,I did not receive the OTP token. Stuck on login screen for hours.,1,2026-04-02,BOA,Google Play (Simulated),negative,-0.25,Account Access & Security
+895,"Very poor customer support, my transaction is pending and chat bot is useless.",2,2026-03-27,BOA,Google Play (Simulated),negative,-0.4989,Transaction Performance
+896,Where is the fingerprint login? Typing my long password every time is annoying.,2,2026-05-07,CBE,Google Play (Simulated),negative,-0.4019,Account Access & Security
+897,Where is the fingerprint login? Typing my long password every time is annoying.,3,2026-05-08,CBE,Google Play (Simulated),negative,-0.4019,Account Access & Security
+898,Smooth transfers and quick notifications. Highly recommended.,4,2026-03-24,BOA,Google Play (Simulated),positive,0.2716,Transaction Performance
+899,BOA Live is beautiful but it crashes constantly after the latest update.,2,2026-04-04,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+900,Smooth transfers and quick notifications. Highly recommended.,5,2026-02-17,BOA,Google Play (Simulated),positive,0.2716,Transaction Performance
+901,"Awesome banking experience, fast navigation and secure transfers.",4,2026-01-20,Dashen,Google Play (Simulated),positive,0.7579,Transaction Performance
+902,Failed transfers. System says network error but my balance was deducted.,1,2026-02-03,Dashen,Google Play (Simulated),negative,-0.4588,Transaction Performance
+903,Very slow transfer loading times today. App kept crashing during payments.,1,2026-01-23,CBE,Google Play (Simulated),neutral,0.0,Transaction Performance
+904,Please add biometric authentication like fingerprint sign in.,4,2026-02-10,Dashen,Google Play (Simulated),positive,0.5859,Account Access & Security
+905,"Awesome banking experience, fast navigation and secure transfers.",5,2026-03-01,Dashen,Google Play (Simulated),positive,0.7579,Transaction Performance
+906,"Excellent app! Transfer speed is fantastic, love the security updates.",5,2026-04-09,CBE,Google Play (Simulated),positive,0.9348,Transaction Performance
+907,"Excellent app! Transfer speed is fantastic, love the security updates.",5,2026-04-08,CBE,Google Play (Simulated),positive,0.9348,Transaction Performance
+908,"Awesome banking experience, fast navigation and secure transfers.",5,2026-04-21,Dashen,Google Play (Simulated),positive,0.7579,Transaction Performance
+909,"Very poor customer support, my transaction is pending and chat bot is useless.",1,2026-03-28,BOA,Google Play (Simulated),negative,-0.4989,Transaction Performance
+910,Smooth transfers and quick notifications. Highly recommended.,5,2026-05-02,BOA,Google Play (Simulated),positive,0.2716,Transaction Performance
+911,"Awesome banking experience, fast navigation and secure transfers.",5,2026-01-17,Dashen,Google Play (Simulated),positive,0.7579,Transaction Performance
+912,Failed transfers. System says network error but my balance was deducted.,1,2026-02-26,Dashen,Google Play (Simulated),negative,-0.4588,Transaction Performance
+913,I did not receive the OTP token. Stuck on login screen for hours.,1,2026-05-02,BOA,Google Play (Simulated),negative,-0.25,Account Access & Security
+914,Smooth transfers and quick notifications. Highly recommended.,5,2026-03-29,BOA,Google Play (Simulated),positive,0.2716,Transaction Performance
+915,Smooth transfers and quick notifications. Highly recommended.,5,2026-01-12,BOA,Google Play (Simulated),positive,0.2716,Transaction Performance
+916,"Great user interface, clean design, but login error pops up frequently.",3,2026-01-17,CBE,Google Play (Simulated),neutral,-0.0387,Account Access & Security
+917,Failed transfers. System says network error but my balance was deducted.,2,2026-03-21,Dashen,Google Play (Simulated),negative,-0.4588,Transaction Performance
+918,"Great user interface, clean design, but login error pops up frequently.",3,2026-03-10,CBE,Google Play (Simulated),neutral,-0.0387,Account Access & Security
+919,Smooth transfers and quick notifications. Highly recommended.,4,2026-04-18,BOA,Google Play (Simulated),positive,0.2716,Transaction Performance
+920,Please add biometric authentication like fingerprint sign in.,4,2026-02-11,Dashen,Google Play (Simulated),positive,0.5859,Account Access & Security
+921,Please add biometric authentication like fingerprint sign in.,4,2026-03-14,Dashen,Google Play (Simulated),positive,0.5859,Account Access & Security
+922,BOA Live is beautiful but it crashes constantly after the latest update.,2,2026-04-07,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+923,"Very poor customer support, my transaction is pending and chat bot is useless.",2,2026-04-24,BOA,Google Play (Simulated),negative,-0.4989,Transaction Performance
+924,"Excellent app! Transfer speed is fantastic, love the security updates.",5,2026-03-22,CBE,Google Play (Simulated),positive,0.9348,Transaction Performance
+925,Where is the fingerprint login? Typing my long password every time is annoying.,2,2026-04-16,CBE,Google Play (Simulated),negative,-0.4019,Account Access & Security
+926,Failed transfers. System says network error but my balance was deducted.,2,2026-05-08,Dashen,Google Play (Simulated),negative,-0.4588,Transaction Performance
+927,"Great user interface, clean design, but login error pops up frequently.",3,2026-04-27,CBE,Google Play (Simulated),neutral,-0.0387,Account Access & Security
+928,Please add biometric authentication like fingerprint sign in.,3,2026-01-30,Dashen,Google Play (Simulated),positive,0.5859,Account Access & Security
+929,Smooth transfers and quick notifications. Highly recommended.,5,2026-04-06,BOA,Google Play (Simulated),positive,0.2716,Transaction Performance
+930,"Amole app has a great interface, very clean and navigable navigation.",3,2026-01-09,Dashen,Google Play (Simulated),positive,0.796,UI & User Experience
+931,BOA Live is beautiful but it crashes constantly after the latest update.,2,2026-01-20,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+932,Very slow transfer loading times today. App kept crashing during payments.,2,2026-02-11,CBE,Google Play (Simulated),neutral,0.0,Transaction Performance
+933,BOA Live is beautiful but it crashes constantly after the latest update.,3,2026-01-06,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+934,"Amole app has a great interface, very clean and navigable navigation.",3,2026-05-07,Dashen,Google Play (Simulated),positive,0.796,UI & User Experience
+935,"Very poor customer support, my transaction is pending and chat bot is useless.",1,2026-04-06,BOA,Google Play (Simulated),negative,-0.4989,Transaction Performance
+936,Please add biometric authentication like fingerprint sign in.,2,2026-01-24,Dashen,Google Play (Simulated),positive,0.5859,Account Access & Security
+937,BOA Live is beautiful but it crashes constantly after the latest update.,1,2026-04-07,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+938,Very slow transfer loading times today. App kept crashing during payments.,1,2026-02-21,CBE,Google Play (Simulated),neutral,0.0,Transaction Performance
+939,Very slow transfer loading times today. App kept crashing during payments.,2,2026-02-23,CBE,Google Play (Simulated),neutral,0.0,Transaction Performance
+940,I did not receive the OTP token. Stuck on login screen for hours.,1,2026-03-22,BOA,Google Play (Simulated),negative,-0.25,Account Access & Security
+941,I did not receive the OTP token. Stuck on login screen for hours.,1,2026-01-21,BOA,Google Play (Simulated),negative,-0.25,Account Access & Security
+942,I did not receive the OTP token. Stuck on login screen for hours.,1,2026-05-03,BOA,Google Play (Simulated),negative,-0.25,Account Access & Security
+943,Very slow transfer loading times today. App kept crashing during payments.,1,2026-01-19,CBE,Google Play (Simulated),neutral,0.0,Transaction Performance
+944,BOA Live is beautiful but it crashes constantly after the latest update.,2,2026-04-05,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+945,Please add biometric authentication like fingerprint sign in.,3,2026-01-31,Dashen,Google Play (Simulated),positive,0.5859,Account Access & Security
+946,Please add biometric authentication like fingerprint sign in.,2,2026-03-06,Dashen,Google Play (Simulated),positive,0.5859,Account Access & Security
+947,Very slow transfer loading times today. App kept crashing during payments.,2,2026-04-28,CBE,Google Play (Simulated),neutral,0.0,Transaction Performance
+948,"Excellent app! Transfer speed is fantastic, love the security updates.",5,2026-04-13,CBE,Google Play (Simulated),positive,0.9348,Transaction Performance
+949,Smooth transfers and quick notifications. Highly recommended.,5,2026-04-03,BOA,Google Play (Simulated),positive,0.2716,Transaction Performance
+950,BOA Live is beautiful but it crashes constantly after the latest update.,2,2026-04-19,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+951,Smooth transfers and quick notifications. Highly recommended.,5,2026-01-02,BOA,Google Play (Simulated),positive,0.2716,Transaction Performance
+952,"Great user interface, clean design, but login error pops up frequently.",3,2026-01-17,CBE,Google Play (Simulated),neutral,-0.0387,Account Access & Security
+953,Smooth transfers and quick notifications. Highly recommended.,4,2026-05-08,BOA,Google Play (Simulated),positive,0.2716,Transaction Performance
+954,Where is the fingerprint login? Typing my long password every time is annoying.,3,2026-01-20,CBE,Google Play (Simulated),negative,-0.4019,Account Access & Security
+955,"Amole app has a great interface, very clean and navigable navigation.",5,2026-05-07,Dashen,Google Play (Simulated),positive,0.796,UI & User Experience
+956,"Awesome banking experience, fast navigation and secure transfers.",5,2026-02-25,Dashen,Google Play (Simulated),positive,0.7579,Transaction Performance
+957,Please add biometric authentication like fingerprint sign in.,4,2026-01-08,Dashen,Google Play (Simulated),positive,0.5859,Account Access & Security
+958,"Very poor customer support, my transaction is pending and chat bot is useless.",1,2026-05-11,BOA,Google Play (Simulated),negative,-0.4989,Transaction Performance
+959,"Very poor customer support, my transaction is pending and chat bot is useless.",2,2026-03-06,BOA,Google Play (Simulated),negative,-0.4989,Transaction Performance
+960,Very slow transfer loading times today. App kept crashing during payments.,1,2026-02-08,CBE,Google Play (Simulated),neutral,0.0,Transaction Performance
+961,"Excellent app! Transfer speed is fantastic, love the security updates.",4,2026-05-06,CBE,Google Play (Simulated),positive,0.9348,Transaction Performance
+962,"Amole app has a great interface, very clean and navigable navigation.",4,2026-01-07,Dashen,Google Play (Simulated),positive,0.796,UI & User Experience
+963,Please add biometric authentication like fingerprint sign in.,4,2026-03-18,Dashen,Google Play (Simulated),positive,0.5859,Account Access & Security
+964,"Amole app has a great interface, very clean and navigable navigation.",3,2026-03-30,Dashen,Google Play (Simulated),positive,0.796,UI & User Experience
+965,I did not receive the OTP token. Stuck on login screen for hours.,2,2026-04-19,BOA,Google Play (Simulated),negative,-0.25,Account Access & Security
+966,"Awesome banking experience, fast navigation and secure transfers.",5,2026-03-20,Dashen,Google Play (Simulated),positive,0.7579,Transaction Performance
+967,"Very poor customer support, my transaction is pending and chat bot is useless.",2,2026-01-10,BOA,Google Play (Simulated),negative,-0.4989,Transaction Performance
+968,"Very poor customer support, my transaction is pending and chat bot is useless.",1,2026-04-24,BOA,Google Play (Simulated),negative,-0.4989,Transaction Performance
+969,BOA Live is beautiful but it crashes constantly after the latest update.,1,2026-02-07,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+970,Smooth transfers and quick notifications. Highly recommended.,4,2026-04-24,BOA,Google Play (Simulated),positive,0.2716,Transaction Performance
+971,I did not receive the OTP token. Stuck on login screen for hours.,1,2026-02-07,BOA,Google Play (Simulated),negative,-0.25,Account Access & Security
+972,BOA Live is beautiful but it crashes constantly after the latest update.,1,2026-04-16,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+973,Please add biometric authentication like fingerprint sign in.,2,2026-03-13,Dashen,Google Play (Simulated),positive,0.5859,Account Access & Security
+974,"Amole app has a great interface, very clean and navigable navigation.",5,2026-01-27,Dashen,Google Play (Simulated),positive,0.796,UI & User Experience
+975,Smooth transfers and quick notifications. Highly recommended.,5,2026-03-24,BOA,Google Play (Simulated),positive,0.2716,Transaction Performance
+976,"Very poor customer support, my transaction is pending and chat bot is useless.",1,2026-02-15,BOA,Google Play (Simulated),negative,-0.4989,Transaction Performance
+977,"Great user interface, clean design, but login error pops up frequently.",4,2026-01-04,CBE,Google Play (Simulated),neutral,-0.0387,Account Access & Security
+978,Please add biometric authentication like fingerprint sign in.,3,2026-05-08,Dashen,Google Play (Simulated),positive,0.5859,Account Access & Security
+979,BOA Live is beautiful but it crashes constantly after the latest update.,1,2026-01-27,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+980,I did not receive the OTP token. Stuck on login screen for hours.,2,2026-03-14,BOA,Google Play (Simulated),negative,-0.25,Account Access & Security
+981,"Amole app has a great interface, very clean and navigable navigation.",3,2026-04-26,Dashen,Google Play (Simulated),positive,0.796,UI & User Experience
+982,BOA Live is beautiful but it crashes constantly after the latest update.,2,2026-03-25,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+983,Very slow transfer loading times today. App kept crashing during payments.,1,2026-01-22,CBE,Google Play (Simulated),neutral,0.0,Transaction Performance
+984,"Great user interface, clean design, but login error pops up frequently.",2,2026-01-28,CBE,Google Play (Simulated),neutral,-0.0387,Account Access & Security
+985,"Awesome banking experience, fast navigation and secure transfers.",5,2026-04-02,Dashen,Google Play (Simulated),positive,0.7579,Transaction Performance
+986,"Awesome banking experience, fast navigation and secure transfers.",5,2026-01-24,Dashen,Google Play (Simulated),positive,0.7579,Transaction Performance
+987,I did not receive the OTP token. Stuck on login screen for hours.,1,2026-04-21,BOA,Google Play (Simulated),negative,-0.25,Account Access & Security
+988,BOA Live is beautiful but it crashes constantly after the latest update.,2,2026-03-12,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+989,"Excellent app! Transfer speed is fantastic, love the security updates.",4,2026-02-06,CBE,Google Play (Simulated),positive,0.9348,Transaction Performance
+990,BOA Live is beautiful but it crashes constantly after the latest update.,2,2026-04-01,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+991,BOA Live is beautiful but it crashes constantly after the latest update.,2,2026-05-08,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+992,"Awesome banking experience, fast navigation and secure transfers.",5,2026-02-02,Dashen,Google Play (Simulated),positive,0.7579,Transaction Performance
+993,"Amole app has a great interface, very clean and navigable navigation.",4,2026-03-12,Dashen,Google Play (Simulated),positive,0.796,UI & User Experience
+994,BOA Live is beautiful but it crashes constantly after the latest update.,3,2026-02-12,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+995,I did not receive the OTP token. Stuck on login screen for hours.,1,2026-03-20,BOA,Google Play (Simulated),negative,-0.25,Account Access & Security
+996,BOA Live is beautiful but it crashes constantly after the latest update.,3,2026-02-24,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+997,Please add biometric authentication like fingerprint sign in.,3,2026-02-14,Dashen,Google Play (Simulated),positive,0.5859,Account Access & Security
+998,Please add biometric authentication like fingerprint sign in.,2,2026-01-17,Dashen,Google Play (Simulated),positive,0.5859,Account Access & Security
+999,"Amole app has a great interface, very clean and navigable navigation.",4,2026-03-16,Dashen,Google Play (Simulated),positive,0.796,UI & User Experience
+1000,"Amole app has a great interface, very clean and navigable navigation.",3,2026-03-02,Dashen,Google Play (Simulated),positive,0.796,UI & User Experience
+1001,BOA Live is beautiful but it crashes constantly after the latest update.,1,2026-02-16,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+1002,Very slow transfer loading times today. App kept crashing during payments.,1,2026-05-03,CBE,Google Play (Simulated),neutral,0.0,Transaction Performance
+1003,Where is the fingerprint login? Typing my long password every time is annoying.,2,2026-04-06,CBE,Google Play (Simulated),negative,-0.4019,Account Access & Security
+1004,BOA Live is beautiful but it crashes constantly after the latest update.,3,2026-05-07,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+1005,BOA Live is beautiful but it crashes constantly after the latest update.,2,2026-03-27,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+1006,I did not receive the OTP token. Stuck on login screen for hours.,2,2026-03-19,BOA,Google Play (Simulated),negative,-0.25,Account Access & Security
+1007,Where is the fingerprint login? Typing my long password every time is annoying.,3,2026-03-04,CBE,Google Play (Simulated),negative,-0.4019,Account Access & Security
+1008,"Awesome banking experience, fast navigation and secure transfers.",5,2026-04-11,Dashen,Google Play (Simulated),positive,0.7579,Transaction Performance
+1009,I did not receive the OTP token. Stuck on login screen for hours.,1,2026-03-20,BOA,Google Play (Simulated),negative,-0.25,Account Access & Security
+1010,"Excellent app! Transfer speed is fantastic, love the security updates.",5,2026-03-06,CBE,Google Play (Simulated),positive,0.9348,Transaction Performance
+1011,Smooth transfers and quick notifications. Highly recommended.,4,2026-03-10,BOA,Google Play (Simulated),positive,0.2716,Transaction Performance
+1012,"Amole app has a great interface, very clean and navigable navigation.",4,2026-05-07,Dashen,Google Play (Simulated),positive,0.796,UI & User Experience
+1013,"Amole app has a great interface, very clean and navigable navigation.",3,2026-01-12,Dashen,Google Play (Simulated),positive,0.796,UI & User Experience
+1014,BOA Live is beautiful but it crashes constantly after the latest update.,2,2026-03-19,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+1015,"Great user interface, clean design, but login error pops up frequently.",2,2026-02-15,CBE,Google Play (Simulated),neutral,-0.0387,Account Access & Security
+1016,Please add biometric authentication like fingerprint sign in.,4,2026-03-09,Dashen,Google Play (Simulated),positive,0.5859,Account Access & Security
+1017,"Great user interface, clean design, but login error pops up frequently.",4,2026-04-05,CBE,Google Play (Simulated),neutral,-0.0387,Account Access & Security
+1018,Very slow transfer loading times today. App kept crashing during payments.,1,2026-01-24,CBE,Google Play (Simulated),neutral,0.0,Transaction Performance
+1019,"Very poor customer support, my transaction is pending and chat bot is useless.",1,2026-04-01,BOA,Google Play (Simulated),negative,-0.4989,Transaction Performance
+1020,"Amole app has a great interface, very clean and navigable navigation.",3,2026-02-26,Dashen,Google Play (Simulated),positive,0.796,UI & User Experience
+1021,Please add biometric authentication like fingerprint sign in.,2,2026-02-04,Dashen,Google Play (Simulated),positive,0.5859,Account Access & Security
+1022,"Very poor customer support, my transaction is pending and chat bot is useless.",1,2026-04-20,BOA,Google Play (Simulated),negative,-0.4989,Transaction Performance
+1023,Very slow transfer loading times today. App kept crashing during payments.,2,2026-03-20,CBE,Google Play (Simulated),neutral,0.0,Transaction Performance
+1024,"Awesome banking experience, fast navigation and secure transfers.",4,2026-01-02,Dashen,Google Play (Simulated),positive,0.7579,Transaction Performance
+1025,Failed transfers. System says network error but my balance was deducted.,2,2026-03-24,Dashen,Google Play (Simulated),negative,-0.4588,Transaction Performance
+1026,"Excellent app! Transfer speed is fantastic, love the security updates.",5,2026-03-13,CBE,Google Play (Simulated),positive,0.9348,Transaction Performance
+1027,Failed transfers. System says network error but my balance was deducted.,1,2026-03-16,Dashen,Google Play (Simulated),negative,-0.4588,Transaction Performance
+1028,"Awesome banking experience, fast navigation and secure transfers.",4,2026-01-11,Dashen,Google Play (Simulated),positive,0.7579,Transaction Performance
+1029,Failed transfers. System says network error but my balance was deducted.,1,2026-01-11,Dashen,Google Play (Simulated),negative,-0.4588,Transaction Performance
+1030,Please add biometric authentication like fingerprint sign in.,2,2026-05-07,Dashen,Google Play (Simulated),positive,0.5859,Account Access & Security
+1031,Very slow transfer loading times today. App kept crashing during payments.,1,2026-03-21,CBE,Google Play (Simulated),neutral,0.0,Transaction Performance
+1032,Please add biometric authentication like fingerprint sign in.,3,2026-03-08,Dashen,Google Play (Simulated),positive,0.5859,Account Access & Security
+1033,Failed transfers. System says network error but my balance was deducted.,1,2026-03-17,Dashen,Google Play (Simulated),negative,-0.4588,Transaction Performance
+1034,"Excellent app! Transfer speed is fantastic, love the security updates.",4,2026-01-02,CBE,Google Play (Simulated),positive,0.9348,Transaction Performance
+1035,Very slow transfer loading times today. App kept crashing during payments.,2,2026-02-27,CBE,Google Play (Simulated),neutral,0.0,Transaction Performance
+1036,"Very poor customer support, my transaction is pending and chat bot is useless.",1,2026-04-19,BOA,Google Play (Simulated),negative,-0.4989,Transaction Performance
+1037,BOA Live is beautiful but it crashes constantly after the latest update.,2,2026-04-25,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+1038,"Awesome banking experience, fast navigation and secure transfers.",5,2026-03-11,Dashen,Google Play (Simulated),positive,0.7579,Transaction Performance
+1039,"Awesome banking experience, fast navigation and secure transfers.",4,2026-04-05,Dashen,Google Play (Simulated),positive,0.7579,Transaction Performance
+1040,Where is the fingerprint login? Typing my long password every time is annoying.,1,2026-04-17,CBE,Google Play (Simulated),negative,-0.4019,Account Access & Security
+1041,"Awesome banking experience, fast navigation and secure transfers.",4,2026-05-08,Dashen,Google Play (Simulated),positive,0.7579,Transaction Performance
+1042,"Very poor customer support, my transaction is pending and chat bot is useless.",2,2026-02-18,BOA,Google Play (Simulated),negative,-0.4989,Transaction Performance
+1043,Very slow transfer loading times today. App kept crashing during payments.,1,2026-02-13,CBE,Google Play (Simulated),neutral,0.0,Transaction Performance
+1044,BOA Live is beautiful but it crashes constantly after the latest update.,1,2026-05-02,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+1045,Failed transfers. System says network error but my balance was deducted.,1,2026-02-22,Dashen,Google Play (Simulated),negative,-0.4588,Transaction Performance
+1046,Where is the fingerprint login? Typing my long password every time is annoying.,3,2026-02-06,CBE,Google Play (Simulated),negative,-0.4019,Account Access & Security
+1047,Please add biometric authentication like fingerprint sign in.,2,2026-02-09,Dashen,Google Play (Simulated),positive,0.5859,Account Access & Security
+1048,"Excellent app! Transfer speed is fantastic, love the security updates.",5,2026-04-10,CBE,Google Play (Simulated),positive,0.9348,Transaction Performance
+1049,"Awesome banking experience, fast navigation and secure transfers.",4,2026-04-02,Dashen,Google Play (Simulated),positive,0.7579,Transaction Performance
+1050,Failed transfers. System says network error but my balance was deducted.,1,2026-03-09,Dashen,Google Play (Simulated),negative,-0.4588,Transaction Performance
+1051,Very slow transfer loading times today. App kept crashing during payments.,1,2026-02-01,CBE,Google Play (Simulated),neutral,0.0,Transaction Performance
+1052,Smooth transfers and quick notifications. Highly recommended.,5,2026-03-06,BOA,Google Play (Simulated),positive,0.2716,Transaction Performance
+1053,"Very poor customer support, my transaction is pending and chat bot is useless.",1,2026-01-10,BOA,Google Play (Simulated),negative,-0.4989,Transaction Performance
+1054,"Amole app has a great interface, very clean and navigable navigation.",5,2026-04-27,Dashen,Google Play (Simulated),positive,0.796,UI & User Experience
+1055,"Very poor customer support, my transaction is pending and chat bot is useless.",2,2026-04-05,BOA,Google Play (Simulated),negative,-0.4989,Transaction Performance
+1056,"Amole app has a great interface, very clean and navigable navigation.",5,2026-01-20,Dashen,Google Play (Simulated),positive,0.796,UI & User Experience
+1057,Where is the fingerprint login? Typing my long password every time is annoying.,1,2026-04-19,CBE,Google Play (Simulated),negative,-0.4019,Account Access & Security
+1058,"Amole app has a great interface, very clean and navigable navigation.",4,2026-05-01,Dashen,Google Play (Simulated),positive,0.796,UI & User Experience
+1059,Where is the fingerprint login? Typing my long password every time is annoying.,2,2026-02-09,CBE,Google Play (Simulated),negative,-0.4019,Account Access & Security
+1060,Smooth transfers and quick notifications. Highly recommended.,5,2026-03-31,BOA,Google Play (Simulated),positive,0.2716,Transaction Performance
+1061,Please add biometric authentication like fingerprint sign in.,4,2026-01-09,Dashen,Google Play (Simulated),positive,0.5859,Account Access & Security
+1062,"Great user interface, clean design, but login error pops up frequently.",3,2026-03-17,CBE,Google Play (Simulated),neutral,-0.0387,Account Access & Security
+1063,BOA Live is beautiful but it crashes constantly after the latest update.,3,2026-04-27,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+1064,Failed transfers. System says network error but my balance was deducted.,2,2026-01-27,Dashen,Google Play (Simulated),negative,-0.4588,Transaction Performance
+1065,I did not receive the OTP token. Stuck on login screen for hours.,1,2026-03-18,BOA,Google Play (Simulated),negative,-0.25,Account Access & Security
+1066,Smooth transfers and quick notifications. Highly recommended.,4,2026-03-03,BOA,Google Play (Simulated),positive,0.2716,Transaction Performance
+1067,"Very poor customer support, my transaction is pending and chat bot is useless.",2,2026-04-20,BOA,Google Play (Simulated),negative,-0.4989,Transaction Performance
+1068,Smooth transfers and quick notifications. Highly recommended.,5,2026-03-21,BOA,Google Play (Simulated),positive,0.2716,Transaction Performance
+1069,"Awesome banking experience, fast navigation and secure transfers.",5,2026-01-17,Dashen,Google Play (Simulated),positive,0.7579,Transaction Performance
+1070,"Very poor customer support, my transaction is pending and chat bot is useless.",2,2026-03-08,BOA,Google Play (Simulated),negative,-0.4989,Transaction Performance
+1071,"Excellent app! Transfer speed is fantastic, love the security updates.",5,2026-05-05,CBE,Google Play (Simulated),positive,0.9348,Transaction Performance
+1072,"Awesome banking experience, fast navigation and secure transfers.",5,2026-01-26,Dashen,Google Play (Simulated),positive,0.7579,Transaction Performance
+1073,"Amole app has a great interface, very clean and navigable navigation.",5,2026-04-15,Dashen,Google Play (Simulated),positive,0.796,UI & User Experience
+1074,BOA Live is beautiful but it crashes constantly after the latest update.,3,2026-04-20,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+1075,Failed transfers. System says network error but my balance was deducted.,2,2026-01-22,Dashen,Google Play (Simulated),negative,-0.4588,Transaction Performance
+1076,BOA Live is beautiful but it crashes constantly after the latest update.,1,2026-05-01,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+1077,"Great user interface, clean design, but login error pops up frequently.",3,2026-01-22,CBE,Google Play (Simulated),neutral,-0.0387,Account Access & Security
+1078,Please add biometric authentication like fingerprint sign in.,4,2026-01-27,Dashen,Google Play (Simulated),positive,0.5859,Account Access & Security
+1079,Very slow transfer loading times today. App kept crashing during payments.,2,2026-03-20,CBE,Google Play (Simulated),neutral,0.0,Transaction Performance
+1080,Smooth transfers and quick notifications. Highly recommended.,4,2026-04-11,BOA,Google Play (Simulated),positive,0.2716,Transaction Performance
+1081,"Excellent app! Transfer speed is fantastic, love the security updates.",5,2026-04-26,CBE,Google Play (Simulated),positive,0.9348,Transaction Performance
+1082,Failed transfers. System says network error but my balance was deducted.,2,2026-05-08,Dashen,Google Play (Simulated),negative,-0.4588,Transaction Performance
+1083,BOA Live is beautiful but it crashes constantly after the latest update.,2,2026-04-27,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+1084,Very slow transfer loading times today. App kept crashing during payments.,2,2026-02-04,CBE,Google Play (Simulated),neutral,0.0,Transaction Performance
+1085,"Excellent app! Transfer speed is fantastic, love the security updates.",4,2026-04-03,CBE,Google Play (Simulated),positive,0.9348,Transaction Performance
+1086,"Very poor customer support, my transaction is pending and chat bot is useless.",1,2026-04-02,BOA,Google Play (Simulated),negative,-0.4989,Transaction Performance
+1087,BOA Live is beautiful but it crashes constantly after the latest update.,3,2026-01-21,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+1088,BOA Live is beautiful but it crashes constantly after the latest update.,3,2026-02-26,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+1089,"Amole app has a great interface, very clean and navigable navigation.",5,2026-01-16,Dashen,Google Play (Simulated),positive,0.796,UI & User Experience
+1090,Very slow transfer loading times today. App kept crashing during payments.,1,2026-01-20,CBE,Google Play (Simulated),neutral,0.0,Transaction Performance
+1091,Smooth transfers and quick notifications. Highly recommended.,5,2026-03-15,BOA,Google Play (Simulated),positive,0.2716,Transaction Performance
+1092,"Awesome banking experience, fast navigation and secure transfers.",5,2026-03-16,Dashen,Google Play (Simulated),positive,0.7579,Transaction Performance
+1093,Failed transfers. System says network error but my balance was deducted.,2,2026-04-17,Dashen,Google Play (Simulated),negative,-0.4588,Transaction Performance
+1094,Where is the fingerprint login? Typing my long password every time is annoying.,1,2026-04-21,CBE,Google Play (Simulated),negative,-0.4019,Account Access & Security
+1095,"Awesome banking experience, fast navigation and secure transfers.",4,2026-01-17,Dashen,Google Play (Simulated),positive,0.7579,Transaction Performance
+1096,Please add biometric authentication like fingerprint sign in.,4,2026-01-30,Dashen,Google Play (Simulated),positive,0.5859,Account Access & Security
+1097,Very slow transfer loading times today. App kept crashing during payments.,2,2026-04-19,CBE,Google Play (Simulated),neutral,0.0,Transaction Performance
+1098,"Great user interface, clean design, but login error pops up frequently.",4,2026-01-31,CBE,Google Play (Simulated),neutral,-0.0387,Account Access & Security
+1099,Very slow transfer loading times today. App kept crashing during payments.,1,2026-04-18,CBE,Google Play (Simulated),neutral,0.0,Transaction Performance
+1100,"Great user interface, clean design, but login error pops up frequently.",2,2026-02-08,CBE,Google Play (Simulated),neutral,-0.0387,Account Access & Security
+1101,BOA Live is beautiful but it crashes constantly after the latest update.,3,2026-03-29,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+1102,Where is the fingerprint login? Typing my long password every time is annoying.,2,2026-02-22,CBE,Google Play (Simulated),negative,-0.4019,Account Access & Security
+1103,Where is the fingerprint login? Typing my long password every time is annoying.,1,2026-03-23,CBE,Google Play (Simulated),negative,-0.4019,Account Access & Security
+1104,"Amole app has a great interface, very clean and navigable navigation.",4,2026-04-11,Dashen,Google Play (Simulated),positive,0.796,UI & User Experience
+1105,Failed transfers. System says network error but my balance was deducted.,1,2026-04-24,Dashen,Google Play (Simulated),negative,-0.4588,Transaction Performance
+1106,BOA Live is beautiful but it crashes constantly after the latest update.,3,2026-01-13,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+1107,"Awesome banking experience, fast navigation and secure transfers.",4,2026-02-28,Dashen,Google Play (Simulated),positive,0.7579,Transaction Performance
+1108,Failed transfers. System says network error but my balance was deducted.,1,2026-02-11,Dashen,Google Play (Simulated),negative,-0.4588,Transaction Performance
+1109,"Amole app has a great interface, very clean and navigable navigation.",4,2026-03-29,Dashen,Google Play (Simulated),positive,0.796,UI & User Experience
+1110,Please add biometric authentication like fingerprint sign in.,3,2026-03-22,Dashen,Google Play (Simulated),positive,0.5859,Account Access & Security
+1111,Where is the fingerprint login? Typing my long password every time is annoying.,3,2026-04-03,CBE,Google Play (Simulated),negative,-0.4019,Account Access & Security
+1112,BOA Live is beautiful but it crashes constantly after the latest update.,1,2026-04-18,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+1113,"Amole app has a great interface, very clean and navigable navigation.",5,2026-04-14,Dashen,Google Play (Simulated),positive,0.796,UI & User Experience
+1114,I did not receive the OTP token. Stuck on login screen for hours.,2,2026-02-24,BOA,Google Play (Simulated),negative,-0.25,Account Access & Security
+1115,"Great user interface, clean design, but login error pops up frequently.",2,2026-04-22,CBE,Google Play (Simulated),neutral,-0.0387,Account Access & Security
+1116,I did not receive the OTP token. Stuck on login screen for hours.,1,2026-01-19,BOA,Google Play (Simulated),negative,-0.25,Account Access & Security
+1117,Smooth transfers and quick notifications. Highly recommended.,5,2026-03-29,BOA,Google Play (Simulated),positive,0.2716,Transaction Performance
+1118,Failed transfers. System says network error but my balance was deducted.,1,2026-02-22,Dashen,Google Play (Simulated),negative,-0.4588,Transaction Performance
+1119,Please add biometric authentication like fingerprint sign in.,3,2026-01-31,Dashen,Google Play (Simulated),positive,0.5859,Account Access & Security
+1120,Very slow transfer loading times today. App kept crashing during payments.,1,2026-04-28,CBE,Google Play (Simulated),neutral,0.0,Transaction Performance
+1121,"Awesome banking experience, fast navigation and secure transfers.",5,2026-03-30,Dashen,Google Play (Simulated),positive,0.7579,Transaction Performance
+1122,Smooth transfers and quick notifications. Highly recommended.,4,2026-02-04,BOA,Google Play (Simulated),positive,0.2716,Transaction Performance
+1123,"Awesome banking experience, fast navigation and secure transfers.",5,2026-01-21,Dashen,Google Play (Simulated),positive,0.7579,Transaction Performance
+1124,"Great user interface, clean design, but login error pops up frequently.",3,2026-05-04,CBE,Google Play (Simulated),neutral,-0.0387,Account Access & Security
+1125,"Very poor customer support, my transaction is pending and chat bot is useless.",1,2026-04-01,BOA,Google Play (Simulated),negative,-0.4989,Transaction Performance
+1126,BOA Live is beautiful but it crashes constantly after the latest update.,1,2026-01-19,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+1127,"Awesome banking experience, fast navigation and secure transfers.",4,2026-04-11,Dashen,Google Play (Simulated),positive,0.7579,Transaction Performance
+1128,Smooth transfers and quick notifications. Highly recommended.,5,2026-04-20,BOA,Google Play (Simulated),positive,0.2716,Transaction Performance
+1129,"Awesome banking experience, fast navigation and secure transfers.",5,2026-05-11,Dashen,Google Play (Simulated),positive,0.7579,Transaction Performance
+1130,I did not receive the OTP token. Stuck on login screen for hours.,1,2026-05-07,BOA,Google Play (Simulated),negative,-0.25,Account Access & Security
+1131,Where is the fingerprint login? Typing my long password every time is annoying.,1,2026-01-13,CBE,Google Play (Simulated),negative,-0.4019,Account Access & Security
+1132,"Amole app has a great interface, very clean and navigable navigation.",4,2026-05-07,Dashen,Google Play (Simulated),positive,0.796,UI & User Experience
+1133,BOA Live is beautiful but it crashes constantly after the latest update.,3,2026-03-15,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+1134,Where is the fingerprint login? Typing my long password every time is annoying.,3,2026-01-21,CBE,Google Play (Simulated),negative,-0.4019,Account Access & Security
+1135,Very slow transfer loading times today. App kept crashing during payments.,1,2026-01-27,CBE,Google Play (Simulated),neutral,0.0,Transaction Performance
+1136,Failed transfers. System says network error but my balance was deducted.,1,2026-01-27,Dashen,Google Play (Simulated),negative,-0.4588,Transaction Performance
+1137,Smooth transfers and quick notifications. Highly recommended.,5,2026-04-09,BOA,Google Play (Simulated),positive,0.2716,Transaction Performance
+1138,Smooth transfers and quick notifications. Highly recommended.,5,2026-04-04,BOA,Google Play (Simulated),positive,0.2716,Transaction Performance
+1139,Smooth transfers and quick notifications. Highly recommended.,5,2026-01-30,BOA,Google Play (Simulated),positive,0.2716,Transaction Performance
+1140,Please add biometric authentication like fingerprint sign in.,3,2026-03-28,Dashen,Google Play (Simulated),positive,0.5859,Account Access & Security
+1141,"Awesome banking experience, fast navigation and secure transfers.",5,2026-04-27,Dashen,Google Play (Simulated),positive,0.7579,Transaction Performance
+1142,"Great user interface, clean design, but login error pops up frequently.",3,2026-05-05,CBE,Google Play (Simulated),neutral,-0.0387,Account Access & Security
+1143,"Very poor customer support, my transaction is pending and chat bot is useless.",2,2026-04-06,BOA,Google Play (Simulated),negative,-0.4989,Transaction Performance
+1144,"Awesome banking experience, fast navigation and secure transfers.",5,2026-04-29,Dashen,Google Play (Simulated),positive,0.7579,Transaction Performance
+1145,"Excellent app! Transfer speed is fantastic, love the security updates.",4,2026-05-10,CBE,Google Play (Simulated),positive,0.9348,Transaction Performance
+1146,Failed transfers. System says network error but my balance was deducted.,1,2026-01-13,Dashen,Google Play (Simulated),negative,-0.4588,Transaction Performance
+1147,"Excellent app! Transfer speed is fantastic, love the security updates.",4,2026-05-04,CBE,Google Play (Simulated),positive,0.9348,Transaction Performance
+1148,I did not receive the OTP token. Stuck on login screen for hours.,1,2026-02-15,BOA,Google Play (Simulated),negative,-0.25,Account Access & Security
+1149,"Great user interface, clean design, but login error pops up frequently.",2,2026-03-24,CBE,Google Play (Simulated),neutral,-0.0387,Account Access & Security
+1150,"Excellent app! Transfer speed is fantastic, love the security updates.",5,2026-03-10,CBE,Google Play (Simulated),positive,0.9348,Transaction Performance
+1151,"Very poor customer support, my transaction is pending and chat bot is useless.",1,2026-04-03,BOA,Google Play (Simulated),negative,-0.4989,Transaction Performance
+1152,"Great user interface, clean design, but login error pops up frequently.",2,2026-04-23,CBE,Google Play (Simulated),neutral,-0.0387,Account Access & Security
+1153,Where is the fingerprint login? Typing my long password every time is annoying.,3,2026-03-06,CBE,Google Play (Simulated),negative,-0.4019,Account Access & Security
+1154,Very slow transfer loading times today. App kept crashing during payments.,2,2026-04-03,CBE,Google Play (Simulated),neutral,0.0,Transaction Performance
+1155,"Amole app has a great interface, very clean and navigable navigation.",4,2026-03-01,Dashen,Google Play (Simulated),positive,0.796,UI & User Experience
+1156,"Amole app has a great interface, very clean and navigable navigation.",5,2026-03-02,Dashen,Google Play (Simulated),positive,0.796,UI & User Experience
+1157,"Awesome banking experience, fast navigation and secure transfers.",5,2026-03-02,Dashen,Google Play (Simulated),positive,0.7579,Transaction Performance
+1158,Failed transfers. System says network error but my balance was deducted.,1,2026-03-17,Dashen,Google Play (Simulated),negative,-0.4588,Transaction Performance
+1159,BOA Live is beautiful but it crashes constantly after the latest update.,1,2026-01-03,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+1160,"Awesome banking experience, fast navigation and secure transfers.",5,2026-02-23,Dashen,Google Play (Simulated),positive,0.7579,Transaction Performance
+1161,BOA Live is beautiful but it crashes constantly after the latest update.,3,2026-05-02,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+1162,"Very poor customer support, my transaction is pending and chat bot is useless.",1,2026-02-24,BOA,Google Play (Simulated),negative,-0.4989,Transaction Performance
+1163,"Great user interface, clean design, but login error pops up frequently.",3,2026-04-03,CBE,Google Play (Simulated),neutral,-0.0387,Account Access & Security
+1164,"Amole app has a great interface, very clean and navigable navigation.",3,2026-05-05,Dashen,Google Play (Simulated),positive,0.796,UI & User Experience
+1165,"Very poor customer support, my transaction is pending and chat bot is useless.",1,2026-03-26,BOA,Google Play (Simulated),negative,-0.4989,Transaction Performance
+1166,Please add biometric authentication like fingerprint sign in.,3,2026-01-11,Dashen,Google Play (Simulated),positive,0.5859,Account Access & Security
+1167,I did not receive the OTP token. Stuck on login screen for hours.,1,2026-03-15,BOA,Google Play (Simulated),negative,-0.25,Account Access & Security
+1168,"Great user interface, clean design, but login error pops up frequently.",4,2026-05-03,CBE,Google Play (Simulated),neutral,-0.0387,Account Access & Security
+1169,"Very poor customer support, my transaction is pending and chat bot is useless.",1,2026-05-10,BOA,Google Play (Simulated),negative,-0.4989,Transaction Performance
+1170,Smooth transfers and quick notifications. Highly recommended.,5,2026-03-16,BOA,Google Play (Simulated),positive,0.2716,Transaction Performance
+1171,"Excellent app! Transfer speed is fantastic, love the security updates.",5,2026-05-05,CBE,Google Play (Simulated),positive,0.9348,Transaction Performance
+1172,"Amole app has a great interface, very clean and navigable navigation.",5,2026-01-04,Dashen,Google Play (Simulated),positive,0.796,UI & User Experience
+1173,Very slow transfer loading times today. App kept crashing during payments.,1,2026-02-18,CBE,Google Play (Simulated),neutral,0.0,Transaction Performance
+1174,"Awesome banking experience, fast navigation and secure transfers.",5,2026-03-28,Dashen,Google Play (Simulated),positive,0.7579,Transaction Performance
+1175,"Very poor customer support, my transaction is pending and chat bot is useless.",2,2026-01-29,BOA,Google Play (Simulated),negative,-0.4989,Transaction Performance
+1176,Smooth transfers and quick notifications. Highly recommended.,4,2026-02-14,BOA,Google Play (Simulated),positive,0.2716,Transaction Performance
+1177,Very slow transfer loading times today. App kept crashing during payments.,1,2026-04-09,CBE,Google Play (Simulated),neutral,0.0,Transaction Performance
+1178,"Very poor customer support, my transaction is pending and chat bot is useless.",1,2026-01-31,BOA,Google Play (Simulated),negative,-0.4989,Transaction Performance
+1179,"Excellent app! Transfer speed is fantastic, love the security updates.",4,2026-05-05,CBE,Google Play (Simulated),positive,0.9348,Transaction Performance
+1180,I did not receive the OTP token. Stuck on login screen for hours.,2,2026-04-30,BOA,Google Play (Simulated),negative,-0.25,Account Access & Security
+1181,"Excellent app! Transfer speed is fantastic, love the security updates.",5,2026-04-15,CBE,Google Play (Simulated),positive,0.9348,Transaction Performance
+1182,"Excellent app! Transfer speed is fantastic, love the security updates.",5,2026-01-05,CBE,Google Play (Simulated),positive,0.9348,Transaction Performance
+1183,Where is the fingerprint login? Typing my long password every time is annoying.,1,2026-03-12,CBE,Google Play (Simulated),negative,-0.4019,Account Access & Security
+1184,"Amole app has a great interface, very clean and navigable navigation.",5,2026-03-18,Dashen,Google Play (Simulated),positive,0.796,UI & User Experience
+1185,Very slow transfer loading times today. App kept crashing during payments.,1,2026-03-30,CBE,Google Play (Simulated),neutral,0.0,Transaction Performance
+1186,"Awesome banking experience, fast navigation and secure transfers.",5,2026-02-26,Dashen,Google Play (Simulated),positive,0.7579,Transaction Performance
+1187,I did not receive the OTP token. Stuck on login screen for hours.,1,2026-02-22,BOA,Google Play (Simulated),negative,-0.25,Account Access & Security
+1188,Please add biometric authentication like fingerprint sign in.,3,2026-03-21,Dashen,Google Play (Simulated),positive,0.5859,Account Access & Security
+1189,Very slow transfer loading times today. App kept crashing during payments.,1,2026-04-20,CBE,Google Play (Simulated),neutral,0.0,Transaction Performance
+1190,I did not receive the OTP token. Stuck on login screen for hours.,1,2026-03-02,BOA,Google Play (Simulated),negative,-0.25,Account Access & Security
+1191,Please add biometric authentication like fingerprint sign in.,4,2026-04-17,Dashen,Google Play (Simulated),positive,0.5859,Account Access & Security
+1192,"Awesome banking experience, fast navigation and secure transfers.",5,2026-02-15,Dashen,Google Play (Simulated),positive,0.7579,Transaction Performance
+1193,Very slow transfer loading times today. App kept crashing during payments.,2,2026-02-05,CBE,Google Play (Simulated),neutral,0.0,Transaction Performance
+1194,I did not receive the OTP token. Stuck on login screen for hours.,2,2026-01-22,BOA,Google Play (Simulated),negative,-0.25,Account Access & Security
+1195,Where is the fingerprint login? Typing my long password every time is annoying.,1,2026-04-11,CBE,Google Play (Simulated),negative,-0.4019,Account Access & Security
+1196,Where is the fingerprint login? Typing my long password every time is annoying.,3,2026-02-15,CBE,Google Play (Simulated),negative,-0.4019,Account Access & Security
+1197,"Very poor customer support, my transaction is pending and chat bot is useless.",1,2026-02-28,BOA,Google Play (Simulated),negative,-0.4989,Transaction Performance
+1198,BOA Live is beautiful but it crashes constantly after the latest update.,1,2026-01-22,BOA,Google Play (Simulated),positive,0.3506,UI & User Experience
+1199,Failed transfers. System says network error but my balance was deducted.,2,2026-05-10,Dashen,Google Play (Simulated),negative,-0.4588,Transaction Performance
+1200,"Amole app has a great interface, very clean and navigable navigation.",4,2026-02-26,Dashen,Google Play (Simulated),positive,0.796,UI & User Experience
