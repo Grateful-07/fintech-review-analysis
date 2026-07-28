@@ -1,6 +1,19 @@
-# Ignore local operational data assets
-data/*.db
-data/*.csv
-data/*.png
+Set-Content -Path ".gitignore" -Value @"
+# Python / Virtual Environment
 __pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Data & Secrets
+data/
+*.csv
+*.db
+.env
+
+# IDE / System
+.vscode/
+.idea/
 .DS_Store
+"@

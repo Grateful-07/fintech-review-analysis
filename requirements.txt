@@ -1,10 +1,11 @@
-google-play-scraper
-pandas
-transformers
-torch
-vaderSentiment
-psycopg2-binary
-sqlalchemy
-matplotlib
-seaborn
-pytest
+Set-Content -Path "requirements.txt" -Value @"
+google-play-scraper==1.2.4
+pandas==2.2.1
+numpy==1.26.4
+transformers==4.38.2
+torch==2.2.1
+spacy==3.7.4
+scikit-learn==1.4.1.post1
+nltk==3.8.1
+pytest==8.0.2
+"@
